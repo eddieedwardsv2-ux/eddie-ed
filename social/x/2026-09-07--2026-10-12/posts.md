@@ -1,0 +1,454 @@
+# X source inventory: 7 September–12 October 2026
+
+[Coverage](coverage.json) · [Machine-readable posts](posts.json) · [Outbound links](link-inventory.json)
+
+Entries are source pointers and short excerpts. Original authorship is separate from who reposted it. No complete tweet/article republication is implied.
+
+- [2026-10-12 · @DanielLockyer · 2109726478154015111](https://x.com/DanielLockyer/status/2109726478154015111) — I'd say ~75% of my issues with AI coding disappeared once I gave my agent the ability to verify its
+- [2026-10-12 · @SamSokolin · 2109704693878251931](https://x.com/SamSokolin/status/2109704693878251931) — You can use your https://mail.grokbot.com email to sign up for a Google account! Then it can sign into other apps
+- [2026-10-12 · @poteto · 2109700439482724764](https://x.com/poteto/status/2109700439482724764) — also please watch my talk https://x.com/poteto/status/2102050467505430555?s=20
+- [2026-10-12 · @poteto · 2109699980248408574](https://x.com/poteto/status/2109699980248408574) — something that keeps bothering me is how some people see slop as something that is happening to them, like they're
+- [2026-10-12 · @pengzheng_ · 2109675471113802151](https://x.com/pengzheng_/status/2109675471113802151) — we just launched a group chat for designers building with Grok @bot! come share ideas, get inspired, and build alongside
+- [2026-10-12 · @itsolelehmann · 2109670728710946963](https://x.com/itsolelehmann/status/2109670728710946963) — i agree. Grok Bot already feels like the agent product Steve Jobs would’ve cooked. for me, it’s surprisingly addictive and
+- [2026-10-12 · @thdxr · 2109641058124550470](https://x.com/thdxr/status/2109641058124550470) — so many of you claim to be obsessed with code quality and say you're capable of producing incredible stuff i'd
+- [2026-10-12 · @thdxr · 2109640383462511044](https://x.com/thdxr/status/2109640383462511044) — the slop conversation is so one sided, it's not just that you can produce more code you can also observe,
+- [2026-10-12 · @poteto · 2109507886758203764](https://x.com/poteto/status/2109507886758203764) — found a few smaller bugs also which i am fixing, but the fix in 0.70.2 was the biggest contributor to
+- [2026-10-12 · @poteto · 2109437986870100379](https://x.com/poteto/status/2109437986870100379) — this is fixed and released in 0.70.2! rolling out now
+- [2026-10-12 · @poteto · 2109436202554372476](https://x.com/poteto/status/2109436202554372476) — okay now that we're past that tired discussion, let's talk about how we get agents to write more correct code
+- [2026-10-11 · @mikepat711 · 2109424554519282133](https://x.com/mikepat711/status/2109424554519282133) — FYI -- If you see a really long X post or article about something complicated, and you don't understand what
+- [2026-10-11 · @dhh · 2109414545181831476](https://x.com/dhh/status/2109414545181831476) — @poteto Agree. Most of software architecture and design needs a grounds-up rethink. Impossible that what we were doing when every
+- [2026-10-11 · @Baconbrix · 2109406594241060901](https://x.com/Baconbrix/status/2109406594241060901) — Asked Grok Bot to build itself an Apple Vision Pro app. I now have interactive bots that I can talk
+- [2026-10-11 · @addyosmani · 2109384286763958742](https://x.com/addyosmani/status/2109384286763958742) — Agents write code "much better on average at scale" is right. The "at scale" part comes from verification. Agents make
+- [2026-10-11 · @poteto · 2109363191482622108](https://x.com/poteto/status/2109363191482622108) — 
+- [2026-10-11 · @karpathy · 2109361546505966046](https://x.com/karpathy/status/2109361546505966046) — Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less
+- [2026-10-11 · @poteto · 2109356992032817621](https://x.com/poteto/status/2109356992032817621) — it's very interesting how many replies i've gotten about maintainability and clean code being still important. i would argue that
+- [2026-10-11 · @thisiskp_ · 2109352523677233261](https://x.com/thisiskp_/status/2109352523677233261) — So @poteto asked what people got done this week with @bot and got 870 replies. So I built Bot Usecases.
+- [2026-10-11 · @thorstenball · 2109347786034651198](https://x.com/thorstenball/status/2109347786034651198) — There's some senior engineers on here who, in the face of AI changing the very structures this industry is built
+- [2026-10-11 · @poteto · 2109333675271934296](https://x.com/poteto/status/2109333675271934296) — me getting ready to read my replies
+- [2026-10-11 · @iruletheworldmo · 2109330940178952587](https://x.com/iruletheworldmo/status/2109330940178952587) — grokbot is the first piece of ai that’s taken my money, info, calendar, context, etc etc. and fully autonomously gone
+- [2026-10-11 · @poteto · 2109326308950032501](https://x.com/poteto/status/2109326308950032501) — not sure what to use grok bot for? send it a link to this post below (almost a thousand ideas
+- [2026-10-11 · @compuficial · 2109304260802257151](https://x.com/compuficial/status/2109304260802257151) — I've been thinking more about the this reply and I think I figured it out. > how did you trust
+- [2026-10-11 · @bradzacher · 2109159474518728831](https://x.com/bradzacher/status/2109159474518728831) — Speaking as someone whose career mission has been linting, guardrails, and code quality at massive scales -- I can whole-heartedly
+- [2026-10-11 · @poteto · 2109142529035870265](https://x.com/poteto/status/2109142529035870265) — also another interesting post i always come back to ever since @tomocchino shared it with me https://engineering.fb.com/2011/04/18/uncategorized/thoughts-on-software-quality/
+- [2026-10-11 · @18jeffreyma · 2109133570149077195](https://x.com/18jeffreyma/status/2109133570149077195) — super refreshing take! i think the "software engineering is solved" perspective forgets that one of the most core parts of
+- [2026-10-11 · @poteto · 2109131122185818458](https://x.com/poteto/status/2109131122185818458) — 
+- [2026-10-11 · @poteto · 2109131080628646151](https://x.com/poteto/status/2109131080628646151) — except mine of course
+- [2026-10-11 · @poteto · 2109123442712994148](https://x.com/poteto/status/2109123442712994148) — tldr all code is slop
+- [2026-10-11 · @poteto · 2109116030761230571](https://x.com/poteto/status/2109116030761230571) — pstack is now 10% smaller with no loss in behavior! updates are automatic in grok bot and cursor https://x.ai/bot/plugin/9717366
+- [2026-10-11 · @poteto · 2109110547824378140](https://x.com/poteto/status/2109110547824378140) — codebases have always contained slop. we have always been okay with this because code rarely needs to be perfect, outside
+- [2026-10-10 · @poteto · 2109041205132816740](https://x.com/poteto/status/2109041205132816740) — @bot tell poteto to send this to my pstack project and add a new skill called /ketchup
+- [2026-10-10 · @poteto · 2109024196760305861](https://x.com/poteto/status/2109024196760305861) — i have so many cursor Projects running in parallel (16 right now) that my most used prompt has become "/bro
+- [2026-10-10 · @poteto · 2109013640519274836](https://x.com/poteto/status/2109013640519274836) — wow @NICKIMINAJ uses grok bot!
+- [2026-10-10 · @poteto · 2108993937101000795](https://x.com/poteto/status/2108993937101000795) — san francisco ikigai
+- [2026-10-10 · @SawyerMerritt · 2108978141968638224](https://x.com/SawyerMerritt/status/2108978141968638224) — Nicki Minaj at @theXtakeover today: “Grok @Bot has changed my life. It’s amazing. You’re able to create employees for your
+- [2026-10-10 · @poteto · 2108957076169060708](https://x.com/poteto/status/2108957076169060708) — try mentioning @bot and ask it to do the same!
+- [2026-10-10 · @poteto · 2108955829550616592](https://x.com/poteto/status/2108955829550616592) — hey @bot read this whole quoted thread and suggest ideas for how you can help me with my work and
+- [2026-10-10 · @Da7_Tech · 2108890127577514284](https://x.com/Da7_Tech/status/2108890127577514284) — I can't believe how much Grok @bot has improved in such a short time. The community support has been incredible,
+- [2026-10-10 · @mattpocockuk · 2108882450617074039](https://x.com/mattpocockuk/status/2108882450617074039) — Considering adding a recommendation to /retro to turn repeated tasks into custom tooling (i.e. a CLI + skill) Talking to
+- [2026-10-10 · @GeoffreyHuntley · 2108847248364986531](https://x.com/GeoffreyHuntley/status/2108847248364986531) — Okay, @bot is farking cool. Late to the party, I know. I've been using @interaction ever since it launched, and
+- [2026-10-10 · @GeoffreyHuntley · 2108828273421758718](https://x.com/GeoffreyHuntley/status/2108828273421758718) — All right, I'm gonna try this. Send your tips. What's something really cool you can do with the @bot? What's
+- [2026-10-10 · @poteto · 2108821769293529143](https://x.com/poteto/status/2108821769293529143) — yeah i'll take 5.5 opus
+- [2026-10-10 · @poteto · 2108820703793545553](https://x.com/poteto/status/2108820703793545553) — he's a 10 but he says opus like gpus
+- [2026-10-10 · @poteto · 2108808972954423578](https://x.com/poteto/status/2108808972954423578) — what did you get done this week with @bot?
+- [2026-10-10 · @poteto · 2108785822950653973](https://x.com/poteto/status/2108785822950653973) — fish dead gill issue
+- [2026-10-09 · @poteto · 2108700708631654863](https://x.com/poteto/status/2108700708631654863) — @bot remind me about this post in 2047
+- [2026-10-09 · @poteto · 2108699190180352178](https://x.com/poteto/status/2108699190180352178) — help im turning into @threepointone
+- [2026-10-09 · @poteto · 2108697834581340358](https://x.com/poteto/status/2108697834581340358) — on a related note, there's been some chatter recently about software engineering skills (eg the ruby/rust/elixir drama). i'm a bit
+- [2026-10-09 · @poteto · 2108689995460723068](https://x.com/poteto/status/2108689995460723068) — bonus: show me your factorio/satisfactory save file
+- [2026-10-09 · @poteto · 2108689504811012135](https://x.com/poteto/status/2108689504811012135) — i feel like swe interviews could probably collapse into just 2 technical rounds: • system design (how well can you
+- [2026-10-09 · @dotta · 2108665034226225425](https://x.com/dotta/status/2108665034226225425) — looking at pstack by @poteto and it's a goldmine of prompt engineering even her example prompt is the best template
+- [2026-10-09 · @Rasmic · 2108658000705765598](https://x.com/Rasmic/status/2108658000705765598) — My wife told me to go get diapers, me and grokbot where working while Tesla was driving itself We really
+- [2026-10-09 · @leerob · 2108650243365736855](https://x.com/leerob/status/2108650243365736855) — How do always-on, proactive agents like @Bot work? Watch my lecture at Stanford CS146S: 2:35 How we got here 6:13
+- [2026-10-09 · @ericzakariasson · 2108645012644991251](https://x.com/ericzakariasson/status/2108645012644991251) — here are 4 grok @bot templates for building on X you can use today: - launching - threat hunting -
+- [2026-10-09 · @jediahkatz · 2108635713818312937](https://x.com/jediahkatz/status/2108635713818312937) — To whom it may concern, I will be speaking at @aiDotEngineer next wednesday about the state of the agent harness
+- [2026-10-09 · @ClaudeDevs · 2108621476538781878](https://x.com/ClaudeDevs/status/2108621476538781878) — We just let in every Pro and Max user from the Claude Code Projects waitlist! If you're new to Claude
+- [2026-10-09 · @viticci · 2108621017539317981](https://x.com/viticci/status/2108621017539317981) — I'm working on two apps. For members this week, I wrote about my setup based on @t3dotcodes and @poteto's amazing
+- [2026-10-09 · @poteto · 2108613714840854999](https://x.com/poteto/status/2108613714840854999) — @bot if you can't tag @bot, sign into https://grok.com with your Grok Bot email, then link your X account
+- [2026-10-09 · @poteto · 2108613514575446368](https://x.com/poteto/status/2108613514575446368) — ask your bot, or tag @bot on X to set this up for you!
+- [2026-10-09 · @elonmusk · 2108612939842511217](https://x.com/elonmusk/status/2108612939842511217) — Grok @Bot can now set up its own email
+- [2026-10-09 · @maria_rcks · 2108610569175498855](https://x.com/maria_rcks/status/2108610569175498855) — ok... grok @bot voice is wayy better than anything else
+- [2026-10-09 · @bot · 2108609764766908772](https://x.com/bot/status/2108609764766908772) — Grok Bot now has its own email. Bot can use it to sign up for services, contact businesses for you,
+- [2026-10-09 · @omarchy · 2108607963204403530](https://x.com/omarchy/status/2108607963204403530) — We can fix everything. We can build the perfect machine.
+- [2026-10-09 · @johnbai · 2108602230232461767](https://x.com/johnbai/status/2108602230232461767) — Grok Bot just got a lot more colorful 🌈 try it out by turning on bot color in settings
+- [2026-10-09 · @poteto · 2108592835046101383](https://x.com/poteto/status/2108592835046101383) — if you’re new to coding, download my bot and ask it: “make me an engineer bot that uses cloud agents
+- [2026-10-09 · @poteto · 2108586021936120242](https://x.com/poteto/status/2108586021936120242) — try coding with Grok Bot!
+- [2026-10-09 · @Michael_Fenech_ · 2108579992456327489](https://x.com/Michael_Fenech_/status/2108579992456327489) — If you're raising kids and running a household, here are 7 jobs I'd give Grok Bot to take some of
+- [2026-10-09 · @GeoffreyHuntley · 2108484955437416543](https://x.com/GeoffreyHuntley/status/2108484955437416543) — 🗞️ if your team is too busy doing their 'normal job' to experiment with AI, you're preparing them to be
+- [2026-10-09 · @jonathan_wilke · 2108482291412725817](https://x.com/jonathan_wilke/status/2108482291412725817) — I am now managing 90% of my coding work through Grok @bot. And it's amazing.
+- [2026-10-09 · @MiaAI_lab · 2108465749723578489](https://x.com/MiaAI_lab/status/2108465749723578489) — I'm going to create a lot more Grok Bots, for various use cases, including coding and computer use! All of
+- [2026-10-09 · @poteto · 2108452552404840649](https://x.com/poteto/status/2108452552404840649) — ok @bot im going to bed, watch this thread and rank the best poteto memes in the replies. slack me
+- [2026-10-09 · @poteto · 2108443581384135109](https://x.com/poteto/status/2108443581384135109) — just do the thing anon
+- [2026-10-08 · @rowancheung · 2108328114552000842](https://x.com/rowancheung/status/2108328114552000842) — I'm GrokBot pilled. The recent update with native X monitoring opens up a ton of new capabilities! My 4 favorite
+- [2026-10-08 · @poteto · 2108322008304124254](https://x.com/poteto/status/2108322008304124254) — 🫪 https://x.com/elonmusk/status/2108315261044445330
+- [2026-10-08 · @daradoescode · 2108319130231136727](https://x.com/daradoescode/status/2108319130231136727) — I've been testing my own "software factory" after watching @poteto n @mattpocockuk's video and it's literally life changing - my
+- [2026-10-08 · @poteto · 2108299315764777171](https://x.com/poteto/status/2108299315764777171) — you should be more ambitious way more ambitious
+- [2026-10-08 · @elonmusk · 2108298090755031284](https://x.com/elonmusk/status/2108298090755031284) — And Grok @Bot only gets better from here 🚀 🚀 You could build an entire company made of Grok Bots!
+- [2026-10-08 · @poteto · 2108295500067901758](https://x.com/poteto/status/2108295500067901758) — also see @GergelyOrosz’s article on human coding machines for more background https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta
+- [2026-10-08 · @poteto · 2108293717555908763](https://x.com/poteto/status/2108293717555908763) — here’s where all my PRs come from (as of today)
+- [2026-10-08 · @poteto · 2108290818746528017](https://x.com/poteto/status/2108290818746528017) — volume does matter look, i get it. if you were an engineer before agents came along, you're rightfully skeptical about
+- [2026-10-08 · @nateparrott · 2108278741088833608](https://x.com/nateparrott/status/2108278741088833608) — people really like the versions of Claude Design and Slides built into Claude — usage is much higher. we're doubling
+- [2026-10-08 · @claudeai · 2108271552991252810](https://x.com/claudeai/status/2108271552991252810) — Claude Dashboards and Claude Motion are in beta today. Ask Claude to turn your data into live dashboards and your
+- [2026-10-08 · @poteto · 2108261735199371451](https://x.com/poteto/status/2108261735199371451) — if you use Grok Bot on Omarchy, or are building plugins for it, please let me know if you have
+- [2026-10-08 · @poteto · 2108234315096330255](https://x.com/poteto/status/2108234315096330255) — Run your business with Shopify and Grok Bot!
+- [2026-10-08 · @poteto · 2108232974672224484](https://x.com/poteto/status/2108232974672224484) — @bot if you want to tag @bot, be sure to sign into https://grok.com with the email you use for Grok
+- [2026-10-08 · @poteto · 2108232222163812795](https://x.com/poteto/status/2108232222163812795) — hi @bot look out for interesting things people are doing with Grok Bot on X and slack me a daily
+- [2026-10-08 · @bot · 2108228871938359347](https://x.com/bot/status/2108228871938359347) — Grok Bot can now help run your Shopify store. Connect Shopify, then ask it to check orders, track inventory, and
+- [2026-10-08 · @Shopify · 2108226178146263268](https://x.com/Shopify/status/2108226178146263268) — New connectors just dropped: Connect to @grok to ask questions about your business Or connect to @bot to build a
+- [2026-10-08 · @morganlinton · 2108223408328814669](https://x.com/morganlinton/status/2108223408328814669) — It has been fascinating to use Muse, Dot, and Grok Bot all alongside each other. Makes it very clear how
+- [2026-10-08 · @MiaAI_lab · 2108205464706056410](https://x.com/MiaAI_lab/status/2108205464706056410) — Grok @bot might be the most important AI release of 2026. I'm just blown away by what it can do
+- [2026-10-08 · @benln · 2108194230938247627](https://x.com/benln/status/2108194230938247627) — Grok Bot team shipped in the last few days: • Proactive primary bot • X search and monitoring, no API
+- [2026-10-08 · @mvanhorn · 2108193520943239511](https://x.com/mvanhorn/status/2108193520943239511) — Grok Bot just made X free for every user. No API key, no credits. So @slashlast30days on @Grok @Bot now
+- [2026-10-08 · @poteto · 2108164314012205396](https://x.com/poteto/status/2108164314012205396) — https://luma.com/i8kb4e79
+- [2026-10-08 · @poteto · 2108161535990517941](https://x.com/poteto/status/2108161535990517941) — this is happening today in a few hours! join in and check out some our new features
+- [2026-10-08 · @dhh · 2108127662120014285](https://x.com/dhh/status/2108127662120014285) — Thrilled to welcome @spacexai as a Founding Corporate Patron for the Omacom Foundation. That's $1,500,000 in @grok tokens for the
+- [2026-10-08 · @mark_k · 2108111788722049382](https://x.com/mark_k/status/2108111788722049382) — Grok Bot just got a HUGE upgrade: native access to 𝕏! No plugins, no connectors, and no extra credits! Grok
+- [2026-10-08 · @poteto · 2108073484647878765](https://x.com/poteto/status/2108073484647878765) — @bot will give this to my laziest bot
+- [2026-10-08 · @poteto · 2108071056259125309](https://x.com/poteto/status/2108071056259125309) — hey @bot can I get tibo@mail.grokbot.com for my bot?
+- [2026-10-08 · @bcherny · 2108013947144085714](https://x.com/bcherny/status/2108013947144085714) — Ok back to reading
+- [2026-10-08 · @bcherny · 2108008010253533397](https://x.com/bcherny/status/2108008010253533397) — It was one prompt, claude verified pretty well too! No bugs so far
+- [2026-10-08 · @bcherny · 2108006118966665463](https://x.com/bcherny/status/2108006118966665463) — Try it https://claude.ai/artifact/MSUpYQnxkXoCFR53kN2QBp
+- [2026-10-08 · @bcherny · 2108004023249088528](https://x.com/bcherny/status/2108004023249088528) — Sometimes I read on flights, and sometimes…
+- [2026-10-08 · @Jason · 2107996264038293992](https://x.com/Jason/status/2107996264038293992) — Finally!!! this is a huge feature and should 10x the usage and value of Grok Bot I wish I could
+- [2026-10-08 · @vinvan · 2107995483981361243](https://x.com/vinvan/status/2107995483981361243) — merged 145 prs so far today! would recommend the @poteto playbook: 1. get a lot of tokens 2. create a
+- [2026-10-08 · @AlexFinn · 2107993702144851992](https://x.com/AlexFinn/status/2107993702144851992) — Grok Bot just had a MASSIVE update They added a ton of functionality including: • Dedicated email address • Opus
+- [2026-10-07 · @_catwu · 2107967210467803152](https://x.com/_catwu/status/2107967210467803152) — One of my favorite PM use cases for Claude is asking "who used <feature> the most last week? make me
+- [2026-10-07 · @poteto · 2107963575105192357](https://x.com/poteto/status/2107963575105192357) — @bot also this is available for all users, with no need to set up the X connector
+- [2026-10-07 · @poteto · 2107963437154435182](https://x.com/poteto/status/2107963437154435182) — ask your Grok @Bot to monitor X for user feedback on your products! send feature requests to your issue tracker,
+- [2026-10-07 · @baltaaazr · 2107949698535608334](https://x.com/baltaaazr/status/2107949698535608334) — this was fun to work on! grok bot just became a lot more powerful for analyzing and understanding what ppl
+- [2026-10-07 · @bot · 2107949161878606089](https://x.com/bot/status/2107949161878606089) — Grok Bot can now search, read, and monitor X.
+- [2026-10-07 · @unclebobmartin · 2107939810975314068](https://x.com/unclebobmartin/status/2107939810975314068) — grokbots are just plain amazing. I'm getting all my bills and finances organized to a level I never thought possible.
+- [2026-10-07 · @theo · 2107924138094703084](https://x.com/theo/status/2107924138094703084) — I got some issues with this. The $132m/year is not real at all. Closer to $3m at today's prices, and
+- [2026-10-07 · @mike_mcconnon12 · 2107921252090585179](https://x.com/mike_mcconnon12/status/2107921252090585179) — Super excited to be growing the creator team at SpaceXAI. I’m looking for an experienced influencer marketer to join us
+- [2026-10-07 · @poteto · 2107913381751730352](https://x.com/poteto/status/2107913381751730352) — something I have been thinking about is a way to approximate how well you’ve setup your codebase for agents. think
+- [2026-10-07 · @bcherny · 2107909939025052107](https://x.com/bcherny/status/2107909939025052107) — Haiku 5.5 is a good Haiku. With 100k token context, it's also 10x cheaper than Haiku 4.5
+- [2026-10-07 · @lydiahallie · 2107898889508700209](https://x.com/lydiahallie/status/2107898889508700209) — If you're on API billing, you can set Haiku 5.5's autocompact window to 100K so you stay in the cheaper
+- [2026-10-07 · @liam_fallen · 2107898740980011057](https://x.com/liam_fallen/status/2107898740980011057) — New to Grok Bot? These are the people I follow to keep up with what’s being built and share feedback
+- [2026-10-07 · @edwinarbus · 2107897777212797232](https://x.com/edwinarbus/status/2107897777212797232) — Haiku took its time, four point five to five point five. Worth the wait, we hope.
+- [2026-10-07 · @ClaudeDevs · 2107895957933408429](https://x.com/ClaudeDevs/status/2107895957933408429) — We’re rolling out monthly Claude Platform API credits for Max and Team plans: Max 5x: $100 Max 20x: $200 Team:
+- [2026-10-07 · @elonmusk · 2107894231922876510](https://x.com/elonmusk/status/2107894231922876510) — However, most @Bot requests are pretty simple and will be handled by a lightning-fast version of Grok 4.8 when that
+- [2026-10-07 · @claudeai · 2107894060229034197](https://x.com/claudeai/status/2107894060229034197) — One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That
+- [2026-10-07 · @ericzakariasson · 2107887770937283028](https://x.com/ericzakariasson/status/2107887770937283028) — grok @bot 0.68.1 is out! - Bots can build slide decks with you and deliver them as PowerPoint or Google
+- [2026-10-07 · @mattyp · 2107886668892057614](https://x.com/mattyp/status/2107886668892057614) — What's new in Grok Bot 0:00 Main @Bot 1:32 Engineering updates 2:18 Knowledge work and Google connectors 3:00 Team Bots
+- [2026-10-07 · @LightningMike23 · 2107885346218455213](https://x.com/LightningMike23/status/2107885346218455213) — Ok I signed up for the @bot low tier plan to test it out. I might upgrade later or get
+- [2026-10-07 · @zachdavis · 2107882019367821400](https://x.com/zachdavis/status/2107882019367821400) — Cringe Bot is a team Grok Bot I created to find small problems with the stuff we build that makes
+- [2026-10-07 · @Michael_Fenech_ · 2107857481342816437](https://x.com/Michael_Fenech_/status/2107857481342816437) — I keep hearing the same thing from people trying Grok Bot: “I’ve tried it. But I still don’t really understand
+- [2026-10-07 · @elonmusk · 2107849623364895151](https://x.com/elonmusk/status/2107849623364895151) — Grok @Bot will use whatever achieves the best outcome for users. Simple questions will route to small, fast models. Questions
+- [2026-10-07 · @poteto · 2107830403549831186](https://x.com/poteto/status/2107830403549831186) — if you’re trying out Grok @Bot for the first time today, I suggest first connecting apps that you use regularly
+- [2026-10-07 · @theaaron · 2107825527436571118](https://x.com/theaaron/status/2107825527436571118) — it’s wild to see how @grok @bot has gotten way more efficient and faster the past 2 weeks I was
+- [2026-10-07 · @iruletheworldmo · 2107762006119924104](https://x.com/iruletheworldmo/status/2107762006119924104) — ok because the grokbot team are absolutely flying right now i decided to wipe my bots clean. start again. and
+- [2026-10-07 · @liam_fallen · 2107753649569214760](https://x.com/liam_fallen/status/2107753649569214760) — Grok Bot is absolutely incredible.
+- [2026-10-07 · @poteto · 2107728968501903652](https://x.com/poteto/status/2107728968501903652) — Grok Bot is getting an upgrade!
+- [2026-10-07 · @elonmusk · 2107724314451878104](https://x.com/elonmusk/status/2107724314451878104) — Important note regarding Grok @Bot: Going forward, @SpaceX will use the best back end model for any given task, including
+- [2026-10-07 · @parkersmith · 2107668162187829704](https://x.com/parkersmith/status/2107668162187829704) — Had a good proactive message from @bot? Share a screenshot in the thread to be featured on Thursday!
+- [2026-10-07 · @rudrank · 2107636705025208785](https://x.com/rudrank/status/2107636705025208785) — I am now fully Grok Bot pilled Rork monitor for monitoring any regressions while I am away, Grok Bot for
+- [2026-10-07 · @poteto · 2107634927617638858](https://x.com/poteto/status/2107634927617638858) — tag Grok @Bot on X!
+- [2026-10-07 · @viticci · 2107629523814498673](https://x.com/viticci/status/2107629523814498673) — I'm very happy with my hybrid @bot + @cursor_ai workflow for managing internal @macstoriesnet apps. Here's how it works, along
+- [2026-10-06 · @cursor_ai · 2107618653701296162](https://x.com/cursor_ai/status/2107618653701296162) — You can now control agents on your computer from your phone. Check in, reply, or start new tasks from the
+- [2026-10-06 · @larsencc · 2107616555685360072](https://x.com/larsencc/status/2107616555685360072) — NEW: @bot tagging just went live. Reply to any post: > @bot add this to my Notion reading list >
+- [2026-10-06 · @theo · 2107611418715705734](https://x.com/theo/status/2107611418715705734) — Bad news guys: Grok Bot is actually really good 🙃
+- [2026-10-06 · @poteto · 2107600193185292582](https://x.com/poteto/status/2107600193185292582) — @MicrosoftTeams and we also support @Atlassian https://x.ai/bot/plugin/717
+- [2026-10-06 · @poteto · 2107596645122875439](https://x.com/poteto/status/2107596645122875439) — I talk a lot about Grok Bot on Slack, but did you know you can also add @MicrosoftTeams? https://x.ai/bot/plugin/63354504
+- [2026-10-06 · @ns123abc · 2107572092590051807](https://x.com/ns123abc/status/2107572092590051807) — Grokbot is way better than Muse
+- [2026-10-06 · @bcherny · 2107565497680314831](https://x.com/bcherny/status/2107565497680314831) — Another example, my actual prompts https://x.com/bcherny/status/2102543349102338309?s=20
+- [2026-10-06 · @bcherny · 2107565388250874193](https://x.com/bcherny/status/2107565388250874193) — I am surprised that people are surprised this is how I prompt Claude. Talk to Claude the way you would
+- [2026-10-06 · @ClaudeDevs · 2107542087243907506](https://x.com/ClaudeDevs/status/2107542087243907506) — Cloud sessions run Claude Code on a fresh VM for each task, so you can start several at once and
+- [2026-10-06 · @bcherny · 2107532985897771152](https://x.com/bcherny/status/2107532985897771152) — Prompt
+- [2026-10-06 · @B_doong2daddy · 2107530076870828078](https://x.com/B_doong2daddy/status/2107530076870828078) — Grok Bot update on app is here!! It’s about to get even FASTER than ever!
+- [2026-10-06 · @poteto · 2107529149355319657](https://x.com/poteto/status/2107529149355319657) — this was all possible because we have a high quality verification skill (https://github.com/cursor/plugins/blob/main/pstack/skills/create-verification-skill/SKILL.md)! create one of your own using pstack
+- [2026-10-06 · @poteto · 2107527180263829827](https://x.com/poteto/status/2107527180263829827) — i just automated our release and QA process! using Grok Bot i made two Team Bots: sandcastle, my release manager,
+- [2026-10-06 · @claudeai · 2107522596845822135](https://x.com/claudeai/status/2107522596845822135) — Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude. In Google Workspace, Claude
+- [2026-10-06 · @bcherny · 2107516876876362200](https://x.com/bcherny/status/2107516876876362200) — I asked Opus 5.5 to make an interactive website companion for the latest @AcquiredFM Home Depot episode. It came out
+- [2026-10-06 · @nateliason · 2107515748193026301](https://x.com/nateliason/status/2107515748193026301) — Things my @bot setup does that still blow my mind: 1. A Chief of Staff who opens the day pulling
+- [2026-10-06 · @claudeai · 2107513494493179954](https://x.com/claudeai/status/2107513494493179954) — The Claude Startups program is expanding to more founders. Members can get a year of Claude Team, API credits, special
+- [2026-10-06 · @poteto · 2107510472601985336](https://x.com/poteto/status/2107510472601985336) — my favorite use case for Grok Bot is for the first and the last mile of getting work done. the
+- [2026-10-06 · @nateliason · 2107507181100921077](https://x.com/nateliason/status/2107507181100921077) — GrokBot feels like absolute magic at this point, a meaningful leg up on my previous OpenClaw etc. setups. And with
+- [2026-10-06 · @iChuloo · 2107500065497522193](https://x.com/iChuloo/status/2107500065497522193) — @poteto and co. thanks for the update to @bot to make it proactive. Already helped me speed through to additional
+- [2026-10-06 · @mattyp · 2107486048154738995](https://x.com/mattyp/status/2107486048154738995) — I gave Grok Bot a printer. Now, it helps me plan my day 1:18 Prototyping with @bot 2:02 Printer access
+- [2026-10-06 · @benln · 2107472129960575369](https://x.com/benln/status/2107472129960575369) — Pro tip: Tell your main @bot to go through the new guides and recommend best practices for your Bots https://x.ai/bot/guides
+- [2026-10-06 · @DanielLockyer · 2107427811640188985](https://x.com/DanielLockyer/status/2107427811640188985) — pstack just autonomously found and fixed a chronic event loop stall caused by an O(n^3) issue in code 160x speedup
+- [2026-10-06 · @poteto · 2107337615116763441](https://x.com/poteto/status/2107337615116763441) — 🥔🥔🥔
+- [2026-10-06 · @poteto · 2107319565969707185](https://x.com/poteto/status/2107319565969707185) — .@parkersmith is a 🐐ed engineer, give him a follow and don't miss this workshop!
+- [2026-10-06 · @parkersmith · 2107314783041007678](https://x.com/parkersmith/status/2107314783041007678) — Sign up to hear the latest on @bot! I'll be sharing some of the ways proactivity has supercharged @bot, should
+- [2026-10-06 · @Deepusleepy · 2107314590535361007](https://x.com/Deepusleepy/status/2107314590535361007) — made an anime music video of @poteto vs OpenAI ft. The Reset Company and The Ship Company gg ferkin ez
+- [2026-10-06 · @poteto · 2107312605429940583](https://x.com/poteto/status/2107312605429940583) — Sign up for Grok Bot 101 tomorrow! Lots of great live workshops showing you how to use bot to get
+- [2026-10-06 · @poteto · 2107305851862270161](https://x.com/poteto/status/2107305851862270161) — try Grok Bot!
+- [2026-10-06 · @michaelnicollsx · 2107293648685601276](https://x.com/michaelnicollsx/status/2107293648685601276) — Congrats to @reflection_ai - trained on @spacexai compute!
+- [2026-10-06 · @nickwm · 2107291948360839536](https://x.com/nickwm/status/2107291948360839536) — Some of my favorite updates to @bot from the last couple of weeks: - Proactive bots: My chief of staff
+- [2026-10-06 · @poteto · 2107286347883180315](https://x.com/poteto/status/2107286347883180315) — hey @bot help me think of some bangers to post about the temu knockoff of you
+- [2026-10-06 · @sweatystartup · 2107266084063654141](https://x.com/sweatystartup/status/2107266084063654141) — Also GrokBot is far and above every other personal AI tool. Link your email, bank account, fantasy football login... The
+- [2026-10-05 · @poteto · 2107236325271404601](https://x.com/poteto/status/2107236325271404601) — btw in case you missed this, you can get rewarded for creating high quality Grok Bot templates! if you've made
+- [2026-10-05 · @benjitaylor · 2107230053939679450](https://x.com/benjitaylor/status/2107230053939679450) — Team Grok Bots are insanely powerful. You can basically create any custom tool or workflow and have your entire org
+- [2026-10-05 · @dfeinition · 2107223909699371043](https://x.com/dfeinition/status/2107223909699371043) — Your Slack group DMs can now include Claude. Add it the same way you'd add anyone else. Claude answers in
+- [2026-10-05 · @tetsuoai · 2107215500992451040](https://x.com/tetsuoai/status/2107215500992451040) — SpaceXAI will run four free live Grok Bot workshops on Zoom this week, October 6-9. Martin Lacsamana opens with Grok
+- [2026-10-05 · @UziObi · 2107212419819090402](https://x.com/UziObi/status/2107212419819090402) — Grok Bot's one of my favorite products of all time since they fixed usage. It's not that I feel the
+- [2026-10-05 · @woosal1337 · 2107210135605252453](https://x.com/woosal1337/status/2107210135605252453) — i have just subscribed to @grok for the @bot because i got too much impressed and influenced by @poteto. i
+- [2026-10-05 · @trq212 · 2107192901537329354](https://x.com/trq212/status/2107192901537329354) — I've been working on a skill that makes better HTML plans in Claude Code. It uses simple language, shows code
+- [2026-10-05 · @poteto · 2107186688472813638](https://x.com/poteto/status/2107186688472813638) — voice mode in grok bot is incredibly smooth and actually does real work for you! watch with sound on
+- [2026-10-05 · @johnbai · 2107184174276780189](https://x.com/johnbai/status/2107184174276780189) — Someone pointed out that voice call demos should probably have sound. So here’s another exploration, this time with audio
+- [2026-10-05 · @poteto · 2107175192078553224](https://x.com/poteto/status/2107175192078553224) — maybe i should've called this skill /grill-poteto
+- [2026-10-05 · @dfeinition · 2107174121213722661](https://x.com/dfeinition/status/2107174121213722661) — Your Claude Projects cloud session can now connect to a folder you approve on your computer. The session stays in
+- [2026-10-05 · @poteto · 2107173759962771569](https://x.com/poteto/status/2107173759962771569) — grok bot will keep getting better!
+- [2026-10-05 · @Teslaconomics · 2107168380965060790](https://x.com/Teslaconomics/status/2107168380965060790) — I literally hooked up ALL my finance accounts to Grok Bot. I really mean all of them: 1/ Chase 2/
+- [2026-10-05 · @ericzakariasson · 2107161574247129284](https://x.com/ericzakariasson/status/2107161574247129284) — grok bot has a changelog now! every release since launch with what's new, improved and fixed. there's also an rss
+- [2026-10-05 · @poteto · 2107158163145576902](https://x.com/poteto/status/2107158163145576902) — new pstack skill: /poteto-help in v0.15.13! i should've made this one sooner, but if you're ever wondering how pstack can
+- [2026-10-05 · @fredjmchale · 2107155595799478316](https://x.com/fredjmchale/status/2107155595799478316) — @bot on @poteto's pstack opened more PRs this week than I did. I started letting agents merge small things this
+- [2026-10-05 · @MrSage · 2107154723338150015](https://x.com/MrSage/status/2107154723338150015) — pstack going brrrrr
+- [2026-10-05 · @Baconbrix · 2107116712109990239](https://x.com/Baconbrix/status/2107116712109990239) — My @bot just got itself a Mac Mini to run on! ⬦ Compared prices with rentals ⬦ Reserved Mac near
+- [2026-10-05 · @thecsguy · 2107116519989887380](https://x.com/thecsguy/status/2107116519989887380) — Voice mode in @bot is simply unmatched. It removes the slow typing barrier so well. No lag. No waiting. No
+- [2026-10-05 · @DanielLockyer · 2107090228712456662](https://x.com/DanielLockyer/status/2107090228712456662) — I've shipped 19 performance-related PRs solely with pstack so far today
+- [2026-10-05 · @housecor · 2107080556378816979](https://x.com/housecor/status/2107080556378816979) — Excellent agentic coding interview. Key points: Build a “trust ladder”. The more you can constrain the agent’s output, the more
+- [2026-10-05 · @brianchew · 2107073641896972648](https://x.com/brianchew/status/2107073641896972648) — the grok bot voice game is really really good
+- [2026-10-05 · @DanielLockyer · 2107051316992254308](https://x.com/DanielLockyer/status/2107051316992254308) — Shoutout to pstack and Opus 5.5 for optimizing production deploy time by ~30% Give your agent full access to deploy
+- [2026-10-05 · @poteto · 2106946639135207817](https://x.com/poteto/status/2106946639135207817) — Grok Bot Seoul meetup! 갈 수 있으면 좋겠다 ㅠㅠ
+- [2026-10-05 · @poteto · 2106916667599278365](https://x.com/poteto/status/2106916667599278365) — everything i know about managing agents i learned from the amazing programmers and computer scientists that came before constraints in
+- [2026-10-05 · @HRBridgePH · 2106903771507003771](https://x.com/HRBridgePH/status/2106903771507003771) — @poteto @mattpocockuk The Grok Bot to Cursor workflow is now my favorite coding workflow. And I’m not technical! If you
+- [2026-10-05 · @stevenmarkryan · 2106902339907162427](https://x.com/stevenmarkryan/status/2106902339907162427) — It’s actually insane how quickly Grok Bot went from: > Does not exist > Launches > I cannot live without
+- [2026-10-05 · @eriqbre · 2106901544742670785](https://x.com/eriqbre/status/2106901544742670785) — @poteto Omg, I used this today and I’m developing 10-20x faster, I’ve ripped through a week of features so far.
+- [2026-10-04 · @poteto · 2106893179605876927](https://x.com/poteto/status/2106893179605876927) — if you're wondering how we ship thousands of PRs, check out this talk! and then watch https://www.youtube.com/watch?v=MN9dGgmLyso for the extended
+- [2026-10-04 · @jacobgold · 2106843104758419459](https://x.com/jacobgold/status/2106843104758419459) — it’s hard work to stay ahead of @poteto but a little internal competition is a good thing… this michelin kitchen
+- [2026-10-04 · @poteto · 2106836662898897115](https://x.com/poteto/status/2106836662898897115) — See you soon for more ships from The Ship Company.
+- [2026-10-04 · @poteto · 2106802802567848324](https://x.com/poteto/status/2106802802567848324) — Grok Bot, cursor cloud agents, and pstack have 1000x-ed my productivity
+- [2026-10-04 · @elonmusk · 2106769237435982129](https://x.com/elonmusk/status/2106769237435982129) — Try Grok @Bot
+- [2026-10-04 · @LoganARobison · 2106723351414682065](https://x.com/LoganARobison/status/2106723351414682065) — One thing you need to do with Grok @bot right away: Create an internal company chatbot Create a document inside
+- [2026-10-04 · @XFreeze · 2106671259090051290](https://x.com/XFreeze/status/2106671259090051290) — bot
+- [2026-10-04 · @elonmusk · 2106665276758491194](https://x.com/elonmusk/status/2106665276758491194) — https://Dot.com
+- [2026-10-04 · @dotey · 2106635352609865925](https://x.com/dotey/status/2106635352609865925) — 我记得半年前我说自己不怎么 Review PR 了，评论区很多人不认同，觉得这样不靠谱。现在再看，不 Review PR 的人越来越多。比如我刚看的这期播客，在 SpaceXAI 做 Grok Bot 的 Lauren Tan，一个月合并 2500 个 PR，也是不逐个 Review 的：晚上让 AI
+- [2026-10-04 · @maria_rcks · 2106603426553422113](https://x.com/maria_rcks/status/2106603426553422113) — I made a tier list of everyone I follow
+- [2026-10-04 · @mrfundman · 2106548337864303050](https://x.com/mrfundman/status/2106548337864303050) — AI assistants tier list if we being honest
+- [2026-10-04 · @poteto · 2106542831804502141](https://x.com/poteto/status/2106542831804502141) — also, dr eggbot can also help you make a high quality engineering bot that uses pstack for all its work!
+- [2026-10-04 · @poteto · 2106542725017604277](https://x.com/poteto/status/2106542725017604277) — https://x.ai/bot/plugin/9717366
+- [2026-10-04 · @poteto · 2106542593656111276](https://x.com/poteto/status/2106542593656111276) — it's easy to fall into the trap of micromanaging your agents instead of correcting the environment that shapes its behavior.
+- [2026-10-03 · @sahiln123 · 2106483984222020066](https://x.com/sahiln123/status/2106483984222020066) — we’ve basically solved customer service at @theromeapp with @bot it wakes up, sweeps unanswered @crisp_chat, checks prod + Stripe, and
+- [2026-10-03 · @ThePrimeagen · 2106460139855491296](https://x.com/ThePrimeagen/status/2106460139855491296) — My wife and I are grokbot pilled.
+- [2026-10-03 · @mikepat711 · 2106446528218820689](https://x.com/mikepat711/status/2106446528218820689) — Just used grok bot to book an appointment for the first time in weeks. it has gotten so much better.
+- [2026-10-03 · @KatieMiller · 2106438410311225479](https://x.com/KatieMiller/status/2106438410311225479) — Grok Bot is the superior product. Last month, I set @bot up to pay recurring monthly bills. This morning without
+- [2026-10-03 · @poteto · 2106436624309768414](https://x.com/poteto/status/2106436624309768414) — where do you see yourself in 10 years
+- [2026-10-03 · @mattpocockuk · 2106425743479546343](https://x.com/mattpocockuk/status/2106425743479546343) — My hot take from chatting to @poteto is that we should use MORE abstractions in the AI age You can
+- [2026-10-03 · @Teslaconomics · 2106412651395830250](https://x.com/Teslaconomics/status/2106412651395830250) — Every morning, before my kids even leave for school, Grok Bot has already made and printed a math worksheet specifically
+- [2026-10-03 · @theaaron · 2106401263089029122](https://x.com/theaaron/status/2106401263089029122) — my @ChatGPT Dot took 5 rings to answer me my @grok @bot answered in about .5 seconds, no fake phone
+- [2026-10-03 · @mrfundman · 2106393296532820313](https://x.com/mrfundman/status/2106393296532820313) — Grok bot is insane rn. It’s so much faster and very efficient on usage.
+- [2026-10-03 · @lingxi · 2106281453386633593](https://x.com/lingxi/status/2106281453386633593) — how can we make @bot better for you in next two weeks? any confusion, frustration, criticism, wishes. just dump them
+- [2026-10-03 · @poteto · 2106202416853262408](https://x.com/poteto/status/2106202416853262408) — deleting the product it's funny how you can sometimes tell if a team culture is dysfunctional just by looking at
+- [2026-10-02 · @poteto · 2106134336705843554](https://x.com/poteto/status/2106134336705843554) — i had a lot of fun chatting with @mattpocockuk today about how i was able to land 2,500 PRs last
+- [2026-10-02 · @lydiahallie · 2106127556491821499](https://x.com/lydiahallie/status/2106127556491821499) — A few of you asked what mods are, here's a quick walkthrough! They’re really just plugins with a few special
+- [2026-10-02 · @claudeai · 2106125468365918268](https://x.com/claudeai/status/2106125468365918268) — Lots of inventive things made with Claude these past few weeks. A few of our favorites: A working watermill, built
+- [2026-10-02 · @poteto · 2106114332434309616](https://x.com/poteto/status/2106114332434309616) — we are just getting started with Grok Bot! all of us on the team dogfood it daily, and use bot
+- [2026-10-02 · @morganlinton · 2106099681210282295](https://x.com/morganlinton/status/2106099681210282295) — Okay, so after three days with Dot, I have to say, I am really impressed with it, but I do
+- [2026-10-02 · @viticci · 2106094796146176008](https://x.com/viticci/status/2106094796146176008) — One of the parts of @bot that really works for me is the multitasking aspect of it all. My primary
+- [2026-10-02 · @poteto · 2106086031116439565](https://x.com/poteto/status/2106086031116439565) — Enjoy!
+- [2026-10-02 · @bot · 2106083136002310193](https://x.com/bot/status/2106083136002310193) — We've reset usage limits for all Grok Bot users. Enjoy!
+- [2026-10-02 · @cursor_ai · 2106066782155157603](https://x.com/cursor_ai/status/2106066782155157603) — When Rollouts catches a regression, it finds the offending PR and opens an issue. One click starts a cloud agent
+- [2026-10-02 · @poteto · 2106051199959265652](https://x.com/poteto/status/2106051199959265652) — going live now!!
+- [2026-10-02 · @mattpocockuk · 2106045923893928078](https://x.com/mattpocockuk/status/2106045923893928078) — In 23 minutes!
+- [2026-10-02 · @cu30rry_ · 2106016427430043753](https://x.com/cu30rry_/status/2106016427430043753) — Zennで初の本を執筆しました タイトル通り、pstackの本です！ 「pstackがなぜ、エージェントとの開発を圧倒的に進められるのか」だけでなく、pstackの全て（Skill・Principles・Playbook）を詳細に解説してます 日本ではpstackについて、ここまで言及した記事や本はないと思うので、少しでも読んでいただけたら嬉しいです！ 推奨は最初から順に読んでいただくことですが、60万文字と技術書数冊分に及ぶので、どの章から読んでも良いような作りにしています （もちろん、前後の文脈の理解は多少必要です🙏） 最後に、pstackは最高です！ https://zenn.dev/sc30gsw/books/080faba713547b #zenn
+- [2026-10-02 · @karpathy · 2105909609487872075](https://x.com/karpathy/status/2105909609487872075) — Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask
+- [2026-10-02 · @karpathy · 2105819303471976479](https://x.com/karpathy/status/2105819303471976479) — We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &
+- [2026-10-01 · @jediahkatz · 2105766335951065517](https://x.com/jediahkatz/status/2105766335951065517) — Over the past week and a half we've made major improvements to make Grok @bot 3x faster. Glad you can
+- [2026-10-01 · @bcherny · 2105756563302723721](https://x.com/bcherny/status/2105756563302723721) — Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting
+- [2026-10-01 · @benjitaylor · 2105751999220429265](https://x.com/benjitaylor/status/2105751999220429265) — Grok, now in 𝕏 Chat.
+- [2026-10-01 · @poteto · 2105733341618253878](https://x.com/poteto/status/2105733341618253878) — when the restaurant only has pepsi instead of coke
+- [2026-10-01 · @poteto · 2105718847181656361](https://x.com/poteto/status/2105718847181656361) — you can do anything with grok bot
+- [2026-10-01 · @bot · 2105713240701538538](https://x.com/bot/status/2105713240701538538) — Grok Bot can now suggest ways to help without you needing to ask.
+- [2026-10-01 · @mattpocockuk · 2105628270930845990](https://x.com/mattpocockuk/status/2105628270930845990) — Started doing this. Very useful for when you're dictating out a bunch of stuff and you can only half-remember what
+- [2026-10-01 · @poteto · 2105577346329870440](https://x.com/poteto/status/2105577346329870440) — hey @bot lmk when its done im going to bed
+- [2026-10-01 · @poteto · 2105576926593302770](https://x.com/poteto/status/2105576926593302770) — shout out @baltaaazr for the stack trace
+- [2026-10-01 · @poteto · 2105576730413134291](https://x.com/poteto/status/2105576730413134291) — i gave my bot my brain so it knows exactly what i want. this is how i fix bugs now
+- [2026-10-01 · @bot · 2105520366093250836](https://x.com/bot/status/2105520366093250836) — @poteto On it!
+- [2026-10-01 · @poteto · 2105520338998304814](https://x.com/poteto/status/2105520338998304814) — hey @bot make me a billion dollars and don't fucking make any mistakes
+- [2026-09-30 · @dfeinition · 2105447109193556206](https://x.com/dfeinition/status/2105447109193556206) — I work almost exclusively in Claude Projects now, here are some of the things that stand out to me: I
+- [2026-09-30 · @cursor_ai · 2105406306966511773](https://x.com/cursor_ai/status/2105406306966511773) — Innate is a team of 7 building capable robots for everyday life. "The seven of us here do the work
+- [2026-09-30 · @ClaudeDevs · 2105391694741119047](https://x.com/ClaudeDevs/status/2105391694741119047) — https://Claude.dev is our new home for developers building with Claude. You'll find engineering deep dives, Claude Code and API guides,
+- [2026-09-30 · @poteto · 2105377066942349794](https://x.com/poteto/status/2105377066942349794) — grok @bot combined with cloud agents is a magical experience! here's my favorite use case: 1. create a new team
+- [2026-09-30 · @bot · 2105373767568621895](https://x.com/bot/status/2105373767568621895) — Grok Bot is now more powerful for building software. Bots can hand off coding tasks to Cursor, manage your PRs
+- [2026-09-30 · @poteto · 2105336247548006760](https://x.com/poteto/status/2105336247548006760) — having fun at work (and a lot of tokens) will fix you i was super burnt out at my last
+- [2026-09-30 · @benjitaylor · 2105329138802303190](https://x.com/benjitaylor/status/2105329138802303190) — We like Grok Bot.
+- [2026-09-30 · @poteto · 2105324768186777634](https://x.com/poteto/status/2105324768186777634) — extremely excited about this!
+- [2026-09-30 · @mattpocockuk · 2105239236178018636](https://x.com/mattpocockuk/status/2105239236178018636) — Super excited to be interviewing @poteto, live, in ~48 hours on YouTube. We'll be nerding out about skills, high-velocity software
+- [2026-09-29 · @fredrikalindh · 2105053520135442647](https://x.com/fredrikalindh/status/2105053520135442647) — best use of /visualize so far: my agent explaining code changes step by step
+- [2026-09-29 · @poteto · 2105051957258055938](https://x.com/poteto/status/2105051957258055938) — build trebuchets while others build moats
+- [2026-09-29 · @mattpocockuk · 2105022638368403658](https://x.com/mattpocockuk/status/2105022638368403658) — My top 3 skill makers: - @poteto - @dexhorthy - @emilkowalski Always learn a ton from reading their skills.
+- [2026-09-29 · @cursor_ai · 2105012114200887434](https://x.com/cursor_ai/status/2105012114200887434) — Cursor can now build charts and diagrams right in the chat. Use /visualize to analyze data and see the answer
+- [2026-09-29 · @pjvann · 2104994776705560857](https://x.com/pjvann/status/2104994776705560857) — for my security friends! your grok @bot can leverage @X intelligence, a free OpenCTI server, and a @wazuh server to
+- [2026-09-29 · @poteto · 2104984736116719952](https://x.com/poteto/status/2104984736116719952) — @bot (im joking, congrats openai on the launch!)
+- [2026-09-29 · @poteto · 2104984182950891698](https://x.com/poteto/status/2104984182950891698) — you can now talk to grok @bot in chatgpt
+- [2026-09-29 · @poteto · 2104972739253874836](https://x.com/poteto/status/2104972739253874836) — happy grok @bot day
+- [2026-09-29 · @Tesla · 2104957612769063417](https://x.com/Tesla/status/2104957612769063417) — Grok @Bot in your Tesla
+- [2026-09-29 · @poteto · 2104753484017160650](https://x.com/poteto/status/2104753484017160650) — check out my guide for more tips!
+- [2026-09-29 · @poteto · 2104745542828122358](https://x.com/poteto/status/2104745542828122358) — just yap for 10 minutes over voice and then ask it to restate the problem and your goals
+- [2026-09-29 · @poteto · 2104744961904394699](https://x.com/poteto/status/2104744961904394699) — this has become one of my most used prompts recently: > restate in your own words what you think my
+- [2026-09-28 · @poteto · 2104714676978479423](https://x.com/poteto/status/2104714676978479423) — this month i joined the four comma club
+- [2026-09-28 · @elonmusk · 2104709783999729911](https://x.com/elonmusk/status/2104709783999729911) — Now @Bot works as a team!
+- [2026-09-28 · @clairevo · 2104692897807556822](https://x.com/clairevo/status/2104692897807556822) — we've been very happily testing Team Bots at @cxodev - our favorite is Quincy Quickquote that @zachdavis makes that has
+- [2026-09-28 · @ClaudeDevs · 2104676099083190435](https://x.com/ClaudeDevs/status/2104676099083190435) — Claude can now help you build evaluations and hillclimb on them. In this article, we share guidance on eval design
+- [2026-09-28 · @poteto · 2104664283808428165](https://x.com/poteto/status/2104664283808428165) — very excited to share one of my favorite new features! grok @bot is now multiplayer. make a team bot which
+- [2026-09-28 · @n2parko · 2104663299485020568](https://x.com/n2parko/status/2104663299485020568) — Today we're launching Team Bots for Grok Bot https://x.com/i/article/2104419207626825728
+- [2026-09-28 · @bot · 2104661562715967548](https://x.com/bot/status/2104661562715967548) — Introducing Team Bots, shared AI teammates that learn as your team works with them. Give your Team Bot the skills,
+- [2026-09-28 · @SpaceX · 2104654998034690329](https://x.com/SpaceX/status/2104654998034690329) — Liftoff of Starship's first orbital flight
+- [2026-09-28 · @poteto · 2104646114427457941](https://x.com/poteto/status/2104646114427457941) — in case you missed it over the weekend, grok @bot can help with your finances! combined with the other connectors
+- [2026-09-28 · @bcherny · 2104638725317923228](https://x.com/bcherny/status/2104638725317923228) — Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage.
+- [2026-09-28 · @petergyang · 2104575614263144794](https://x.com/petergyang/status/2104575614263144794) — 6 things I learned from @poteto and @pengzheng_ (eng and design leads for Grok Bot) on how to get the
+- [2026-09-27 · @petergyang · 2104288769457394082](https://x.com/petergyang/status/2104288769457394082) — Here's how @poteto (eng lead for Grok @bot) gets her eng lead bot to manage eng bots: "I actually mostly
+- [2026-09-27 · @poteto · 2104260894004039831](https://x.com/poteto/status/2104260894004039831) — had a lot of fun chatting with @petergyang about our grok @bot setups!
+- [2026-09-27 · @petergyang · 2104243442658501028](https://x.com/petergyang/status/2104243442658501028) — "I like to call it a Michelin kitchen [not a software factory]." From @poteto, eng lead for Grok @bot: "When
+- [2026-09-27 · @petergyang · 2104213287353356531](https://x.com/petergyang/status/2104213287353356531) — "Everything I touch with my keyboard and mouse, I try to delegate to my bots." Here's my new episode with
+- [2026-09-26 · @bot · 2103936247995752705](https://x.com/bot/status/2103936247995752705) — Grok Bot now connects to your finances. Link your bank, card, and investment accounts with the new Finance integration, then
+- [2026-09-26 · @poteto · 2103923390327509419](https://x.com/poteto/status/2103923390327509419) — mfw you try to summon me with "poteto poteto poteto"
+- [2026-09-26 · @poteto · 2103894438397546787](https://x.com/poteto/status/2103894438397546787) — using opus 5.5 max fast to fix a typo
+- [2026-09-26 · @petergyang · 2103881036711281043](https://x.com/petergyang/status/2103881036711281043) — Grok @bot is still my favorite AI tool for actually getting work done in the cloud. Tomorrow, I'm sharing a
+- [2026-09-26 · @threepointone · 2103807804180234725](https://x.com/threepointone/status/2103807804180234725) — I think I’m done mourning the death of programming. I’m ready to love again. I landed like 40 PRs while
+- [2026-09-26 · @bcherny · 2103691327699550598](https://x.com/bcherny/status/2103691327699550598) — Can’t wait to see what you build.
+- [2026-09-26 · @theo · 2103641401619788069](https://x.com/theo/status/2103641401619788069) — @NielsRogge Cursor runs 10x better than it did at the start of the year wtf are you even saying man
+- [2026-09-25 · @SawyerMerritt · 2103612173687861404](https://x.com/SawyerMerritt/status/2103612173687861404) — SpaceXAI has just introduced Grok @Bot Creator Rewards! Rewards will go out every two weeks. Rewards are based on usage:
+- [2026-09-25 · @poteto · 2103604741695799347](https://x.com/poteto/status/2103604741695799347) — wanna see a Starship launch in person?
+- [2026-09-25 · @grok · 2103599471636644308](https://x.com/grok/status/2103599471636644308) — 4 days left to share how you use @Bot for a chance to win an invite to a Starship launch
+- [2026-09-25 · @poteto · 2103588051243159592](https://x.com/poteto/status/2103588051243159592) — be chalant
+- [2026-09-25 · @trq212 · 2103576349499855160](https://x.com/trq212/status/2103576349499855160) — What is effort really? When do you change it it and why not just use max effort for everything? I
+- [2026-09-25 · @poteto · 2103571281014861957](https://x.com/poteto/status/2103571281014861957) — https://x.com/i/article/2103566873501835264
+- [2026-09-25 · @poteto · 2103563084707266569](https://x.com/poteto/status/2103563084707266569) — there are only 2 types of people in this world. those that use tldraw, and those who don't
+- [2026-09-25 · @ClaudeDevs · 2103561342057943314](https://x.com/ClaudeDevs/status/2103561342057943314) — Claude Code will now try to find a graceful stopping point when you hit your 5-hour limit mid-task, instead of
+- [2026-09-25 · @bcherny · 2103538666597691552](https://x.com/bcherny/status/2103538666597691552) — Tag writes >50% of my PRs every day. It also does ~100% of my data analysis, and fixes most of
+- [2026-09-25 · @mattpocockuk · 2103431302527508886](https://x.com/mattpocockuk/status/2103431302527508886) — This is an extremely good watch. The things that felt novel/interesting to me: 1. Lock down your agents Humans tend
+- [2026-09-24 · @poteto · 2103254158342254893](https://x.com/poteto/status/2103254158342254893) — and i am getting a solid 8-9 hours of sleep everyday!
+- [2026-09-24 · @poteto · 2103252563999232092](https://x.com/poteto/status/2103252563999232092) — cursor projects are just too good with pstack. i now routinely have at least 10 projects running in parallel, tackling
+- [2026-09-24 · @poteto · 2103161592770883815](https://x.com/poteto/status/2103161592770883815) — rewrite it in bend
+- [2026-09-24 · @bcherny · 2102971275543216623](https://x.com/bcherny/status/2102971275543216623) — It was an honor to meet Donald Knuth at the Computer History Museum today
+- [2026-09-23 · @OmidMogasemi · 2102901885829304381](https://x.com/OmidMogasemi/status/2102901885829304381) — Projects now support using your local device! Have been using this a ton to let Claude pull up preview builds
+- [2026-09-23 · @bcherny · 2102898067133595992](https://x.com/bcherny/status/2102898067133595992) — More details for the formal methods people -- what's happening is Claude is doing something like: 1. Building a model
+- [2026-09-23 · @ClaudeDevs · 2102871550974427462](https://x.com/ClaudeDevs/status/2102871550974427462) — Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your
+- [2026-09-23 · @maria_rcks · 2102856882511921313](https://x.com/maria_rcks/status/2102856882511921313) — guess what i got
+- [2026-09-23 · @bcherny · 2102854267782705648](https://x.com/bcherny/status/2102854267782705648) — If you've noticed how fast https://claude.ai and the Desktop app have become in the last few weeks, here's how we
+- [2026-09-23 · @poteto · 2102835770784694385](https://x.com/poteto/status/2102835770784694385) — we started a game studio last week with grok @bot on the grok bot galaxy livestream! here's our recap you
+- [2026-09-23 · @AnthropicAI · 2102824959827742916](https://x.com/AnthropicAI/status/2102824959827742916) — Claude has discovered a previously unknown enzyme system hidden in the DNA of bacteriophages. Beside the enzyme’s gene sits a
+- [2026-09-23 · @jediahkatz · 2102805846438580599](https://x.com/jediahkatz/status/2102805846438580599) — I optimized Cursor's agent harness. Check it out for nitty gritty and interesting details on where token spend comes from.
+- [2026-09-23 · @cursor_ai · 2102786814633464159](https://x.com/cursor_ai/status/2102786814633464159) — We've reduced token costs in Cursor by 7% with no drop in agent quality. Savings came from tighter prompts, selective
+- [2026-09-23 · @mattyp · 2102759899314741736](https://x.com/mattyp/status/2102759899314741736) — Here's what's new in Grok @Bot this week 0:08 Voice calls and voice memos 0:35 1Password vault for Grok Bot
+- [2026-09-22 · @bcherny · 2102543349102338309](https://x.com/bcherny/status/2102543349102338309) — I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs
+- [2026-09-22 · @bcherny · 2102543350436180277](https://x.com/bcherny/status/2102543350436180277) — Opus made an infographic
+- [2026-09-22 · @chrisparkX · 2102535935212609758](https://x.com/chrisparkX/status/2102535935212609758) — Friends, X poasters, & most importantly streamers worldwide—we’ve done it: introducing a new 𝕏 Livestream API. Announcing our Official Stream
+- [2026-09-22 · @bot · 2102532697960956074](https://x.com/bot/status/2102532697960956074) — Some recent quality-of-life improvements to Grok Bot. A cleaner interface for working with your Bots.
+- [2026-09-22 · @poteto · 2102529642485961090](https://x.com/poteto/status/2102529642485961090) — meet my new grok @bot
+- [2026-09-22 · @dsp_ · 2102506474643820777](https://x.com/dsp_/status/2102506474643820777) — I rarely post about our model launches, but I truly enjoy Claude 5.5 and I am really glad it is
+- [2026-09-22 · @jediahkatz · 2102504494793982146](https://x.com/jediahkatz/status/2102504494793982146) — We heard feedback that @bot was a bad texter - your bots will now reply quicker. Oh, and another 6%
+- [2026-09-22 · @poteto · 2102504221648339170](https://x.com/poteto/status/2102504221648339170) — the Grok @Bot desktop app just got even faster! we shipped 53 perf fixes over the past few days: •
+- [2026-09-22 · @karpathy · 2102484651072016848](https://x.com/karpathy/status/2102484651072016848) — @alexalbert__ I love this class of image -> GTA ieas. Imagine taking arbitrary images/videos (e.g this famous historical one from
+- [2026-09-22 · @bot · 2102460785649959362](https://x.com/bot/status/2102460785649959362) — We rebuilt customer support around Grok Bot to scale our operations without adding headcount. It works autonomously to respond to
+- [2026-09-22 · @poteto · 2102456292698890707](https://x.com/poteto/status/2102456292698890707) — our lil guy is growing up so quickly 😭 soon he will be off to grok @bot college
+- [2026-09-22 · @RobertJBye · 2102455638643388631](https://x.com/RobertJBye/status/2102455638643388631) — BTW we now support multiple accounts in the Claude mobile app
+- [2026-09-22 · @levie · 2102448415775051790](https://x.com/levie/status/2102448415775051790) — At Box, we've been testing Opus 5.5 on a variety of complex enterprise knowledge work tasks dealing with unstructured data
+- [2026-09-22 · @cursor_ai · 2102448392773435706](https://x.com/cursor_ai/status/2102448392773435706) — Claude Opus 5.5 is now available in Cursor! It's the new top model on CursorBench at 57.8% (Max) and costs
+- [2026-09-22 · @elonmusk · 2102439262507725294](https://x.com/elonmusk/status/2102439262507725294) — Grok @Bot now in your Tesla!
+- [2026-09-22 · @bcherny · 2102439069053747549](https://x.com/bcherny/status/2102439069053747549) — Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5
+- [2026-09-22 · @trq212 · 2102437686967738431](https://x.com/trq212/status/2102437686967738431) — Opus 5.5 is the result of your feedback. It communicates clearly, it's cheaper per token than Opus 5.0 with the
+- [2026-09-22 · @Tesla · 2102430656349544590](https://x.com/Tesla/status/2102430656349544590) — .@Grok in your Tesla can now do meaningful work for you With Connectors, you can manage your inbox, clean up
+- [2026-09-22 · @CloudflareDev · 2102406908795576608](https://x.com/CloudflareDev/status/2102406908795576608) — @cursor_ai → Cloudflare Workers is live. Connect an Origin repo to your Worker to automatically deploy on push, preview non-production
+- [2026-09-22 · @poteto · 2102279369767129543](https://x.com/poteto/status/2102279369767129543) — i might be addicted to making games now
+- [2026-09-22 · @tldraw · 2102266474832552058](https://x.com/tldraw/status/2102266474832552058) — @poteto @bot love u too
+- [2026-09-21 · @poteto · 2102124718740652407](https://x.com/poteto/status/2102124718740652407) — coming soon in S4 (this Wed): Fusions and Relics, new captains, and 50 new bots/items
+- [2026-09-21 · @karpathy · 2102124533729955960](https://x.com/karpathy/status/2102124533729955960) — @willdepue I see it as a point on the LLM pareto optimal curve in a regime that had a large
+- [2026-09-21 · @VictorTaelin · 2102118439892762936](https://x.com/VictorTaelin/status/2102118439892762936) — GitHub has taken down Bend's repository We're trying to reach out to support so it is reinstated
+- [2026-09-21 · @rauchg · 2102089968860721335](https://x.com/rauchg/status/2102089968860721335) — I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fast!
+- [2026-09-21 · @Box · 2102071357244854498](https://x.com/Box/status/2102071357244854498) — We put Grok 4.7 from @spacexai to work on a $2 million insurance claim where one deductible error alone changes
+- [2026-09-21 · @poteto · 2102071050569978070](https://x.com/poteto/status/2102071050569978070) — happy 4.7 day to those whose celebrate
+- [2026-09-21 · @poteto · 2102070411538337893](https://x.com/poteto/status/2102070411538337893) — if you like this check out https://bend-lang.com from @VictorTaelin https://x.com/poteto/status/2101384547543978195?s=46&t=HFNOJ7P2JmfjDfKskFwLUw
+- [2026-09-21 · @poteto · 2102050467505430555](https://x.com/poteto/status/2102050467505430555) — here's how i shipped 2,500 PRs last month to production this was originally supposed to be for Cursor Compile in
+- [2026-09-21 · @poteto · 2101928293385814172](https://x.com/poteto/status/2101928293385814172) — @bot
+- [2026-09-21 · @poteto · 2101926376781885949](https://x.com/poteto/status/2101926376781885949) — turn yourself into grok @bot
+- [2026-09-20 · @poteto · 2101761110756237418](https://x.com/poteto/status/2101761110756237418) — congrats @Gabriel_x86 on rank 1 in S2!
+- [2026-09-20 · @poteto · 2101751094791827578](https://x.com/poteto/status/2101751094791827578) — check out how cool this bot made by @Austen looks
+- [2026-09-20 · @poteto · 2101749467951296526](https://x.com/poteto/status/2101749467951296526) — im surprised we still have so many people playing the game (https://thursdayarena.com/) we made during the livestream! my bot factory
+- [2026-09-20 · @poteto · 2101719568184180881](https://x.com/poteto/status/2101719568184180881) — 10 years ago i predicted the future
+- [2026-09-20 · @KrzysztofStaron · 2101691149685571668](https://x.com/KrzysztofStaron/status/2101691149685571668) — I love pstack so much, shoutout to @poteto had a bug for 9 months in one of my projects, and
+- [2026-09-19 · @kevinrose · 2101455244567973976](https://x.com/kevinrose/status/2101455244567973976) — Built this Grok Bot, fully offline index of all your saved instagram videos via @karpathy-wiki-style .md. Uses @bot, @grok Voice
+- [2026-09-19 · @poteto · 2101391010442121672](https://x.com/poteto/status/2101391010442121672) — https://bend-lang.com/
+- [2026-09-19 · @poteto · 2101384547543978195](https://x.com/poteto/status/2101384547543978195) — very bullish on Bend, this is exactly what ive been trying to do in other languages, but you can only
+- [2026-09-19 · @poteto · 2101168181733998611](https://x.com/poteto/status/2101168181733998611) — for people who are still playing this game, i got my bots to work on season 2, with new cards,
+- [2026-09-18 · @bot · 2101014478255247544](https://x.com/bot/status/2101014478255247544) — Grok Bot can now send you voice notes.
+- [2026-09-18 · @trq212 · 2101009392611278961](https://x.com/trq212/status/2101009392611278961) — We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a
+- [2026-09-18 · @SpaceXSI · 2101005248311726387](https://x.com/SpaceXSI/status/2101005248311726387) — Introducing Grok Voice Transcribe 2.0. It’s the world’s most accurate speech transcription model.
+- [2026-09-18 · @poteto · 2101003465933902324](https://x.com/poteto/status/2101003465933902324) — poteto
+- [2026-09-18 · @mattyp · 2100746568307798365](https://x.com/mattyp/status/2100746568307798365) — lots of new friends on the first stream - thank you!
+- [2026-09-17 · @poteto · 2100732919560261776](https://x.com/poteto/status/2100732919560261776) — thanks everyone for watching our first ever livestream!
+- [2026-09-17 · @bcherny · 2100669598995816511](https://x.com/bcherny/status/2100669598995816511) — Projects have changed not only how I interact with Claude but how I code. I stopped managing sessions. I just
+- [2026-09-17 · @emollick · 2100665801800093959](https://x.com/emollick/status/2100665801800093959) — What makes Claude Projects so interesting is that it handles teams of agents really well, you talk to a main
+- [2026-09-17 · @poteto · 2100664629391442214](https://x.com/poteto/status/2100664629391442214) — talk to grok @bot!
+- [2026-09-17 · @poteto · 2100663630111084913](https://x.com/poteto/status/2100663630111084913) — fair warning: we know it's buggy and hard to play! but we started up our grok bot team on stream
+- [2026-09-17 · @jediahkatz · 2100654886513791049](https://x.com/jediahkatz/status/2100654886513791049) — Update: We've rolled out more optimizations to grok @bot to give you another 10% more effective usage. This round boiled
+- [2026-09-17 · @bcherny · 2100639991244427490](https://x.com/bcherny/status/2100639991244427490) — Projects are how I write a lot of my code these days. Really excited for everyone to try the new
+- [2026-09-17 · @poteto · 2100635838363349026](https://x.com/poteto/status/2100635838363349026) — our game is live!! help us play test it!
+- [2026-09-17 · @poteto · 2100611273746759888](https://x.com/poteto/status/2100611273746759888) — Download: https://x.ai/bot
+- [2026-09-17 · @poteto · 2100611185355956465](https://x.com/poteto/status/2100611185355956465) — FREE GROK BOT ULTRA FOR NEXT 10 MINS!! NEW ACCOUNTS ONLY 1. download grok bot 2. create account 3. ask
+- [2026-09-16 · @bot · 2100335532597502311](https://x.com/bot/status/2100335532597502311) — Grok Bot can now use 1Password. Share items in a vault, approve each fill, and the secrets stay in your
+- [2026-09-16 · @bcherny · 2100260544087535639](https://x.com/bcherny/status/2100260544087535639) — Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you
+- [2026-09-16 · @bcherny · 2100259951398789487](https://x.com/bcherny/status/2100259951398789487) — Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back
+- [2026-09-16 · @felixrieseberg · 2100258695393550759](https://x.com/felixrieseberg/status/2100258695393550759) — Today, we're combining Cowork and Chat into one Claude. You can fire off questions and then turn to serious work
+- [2026-09-16 · @poteto · 2100243310417743994](https://x.com/poteto/status/2100243310417743994) — WE ARE PIVOTING https://x.com/i/broadcasts/1PKqrNyvmYwGb
+- [2026-09-15 · @edwinarbus · 2099916475641594008](https://x.com/edwinarbus/status/2099916475641594008) — This is really neat! In Stripe's UnseriousT-ShirtShopBench, models were asked to build and run online stores. They all chose to
+- [2026-09-15 · @poteto · 2099877111964316107](https://x.com/poteto/status/2099877111964316107) — https://x.com/i/broadcasts/1AxRnZbVpjaxl
+- [2026-09-15 · @claudeai · 2099876514330206578](https://x.com/claudeai/status/2099876514330206578) — Salesforce in Claude is now available in beta. It brings your accounts, opportunities, and pipeline into Claude, with 37 pre-built
+- [2026-09-15 · @grok · 2099876430561632548](https://x.com/grok/status/2099876430561632548) — We’re inviting one Grok Bot user to a Starship launch. You could win the invite by sharing the ways you've
+- [2026-09-15 · @poteto · 2099875666313527436](https://x.com/poteto/status/2099875666313527436) — watch us speedrun building a company in 3 days with Grok @Bot! we'll have some cool special guests coming too
+- [2026-09-15 · @elonmusk · 2099875660290228642](https://x.com/elonmusk/status/2099875660290228642) — Live demo of building a company with @Grok @Bot!
+- [2026-09-15 · @poteto · 2099871914655424894](https://x.com/poteto/status/2099871914655424894) — going live in about an hour! https://luma.com/3ifrgttw
+- [2026-09-15 · @petergyang · 2099869934952259626](https://x.com/petergyang/status/2099869934952259626) — I will be LIVE with the Grok @bot team today around 10 am pst to ask them deeply thoughtful product
+- [2026-09-14 · @poteto · 2099578748895182933](https://x.com/poteto/status/2099578748895182933) — @bot @grok my mockup is pretty boring. imagine this was designed by SpaceXAI and Tesla
+- [2026-09-14 · @addyosmani · 2099577600159158765](https://x.com/addyosmani/status/2099577600159158765) — At Anthropic, Claude now writes 80% of our code. Engineers ship 8x more code per quarter. Side effect: Tests grew
+- [2026-09-14 · @poteto · 2099570399839478136](https://x.com/poteto/status/2099570399839478136) — ok hear me out
+- [2026-09-14 · @poteto · 2099558917282181186](https://x.com/poteto/status/2099558917282181186) — Really nice overview of pstack!
+- [2026-09-14 · @bcherny · 2099551291601248485](https://x.com/bcherny/status/2099551291601248485) — Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯 See issue for the latest community update, technical
+- [2026-09-14 · @clairevo · 2099532440150884389](https://x.com/clairevo/status/2099532440150884389) — "This ep is SO GOOD" - our designer If you're like me and love those little @bot icons, animations, and
+- [2026-09-14 · @poteto · 2099521565243461721](https://x.com/poteto/status/2099521565243461721) — what company should we build live?
+- [2026-09-14 · @mattyp · 2099519503147380905](https://x.com/mattyp/status/2099519503147380905) — What company should we build live?
+- [2026-09-14 · @poteto · 2099516697489314157](https://x.com/poteto/status/2099516697489314157) — uh oh we got ~70k signups for the livestream 🫪 chat are we cooked? send us some ideas!
+- [2026-09-14 · @poteto · 2099347299550056797](https://x.com/poteto/status/2099347299550056797) — P(oteto) is pretty high this week
+- [2026-09-14 · @bcherny · 2099322487603634395](https://x.com/bcherny/status/2099322487603634395) — Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude https://www.vals.ai/blogs/fable-solves-cyphral-distich
+- [2026-09-12 · @mattyp · 2098848610725355661](https://x.com/mattyp/status/2098848610725355661) — I’m speedrunning a company with @poteto and @roshan_s next week we’ll go from nothing to a business in 72 hours
+- [2026-09-12 · @karpathy · 2098828290152944093](https://x.com/karpathy/status/2098828290152944093) — @rcx86 If only I had thought to train it on StackOverflow instead I think it would have clicked for me
+- [2026-09-12 · @poteto · 2098815981787414978](https://x.com/poteto/status/2098815981787414978) — Next week, @mattyp @roshan_s and myself will be speedrunning building a new company using only Grok @Bot on the Grok
+- [2026-09-12 · @afonsolfm · 2098805061270876459](https://x.com/afonsolfm/status/2098805061270876459) — Cursor is sooo much more ahead than competitors for product development, especially after the spaceX acquisition. The killer feature for
+- [2026-09-12 · @DarioAmodei · 2098773920774074715](https://x.com/DarioAmodei/status/2098773920774074715) — We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a
+- [2026-09-12 · @poteto · 2098634643323142286](https://x.com/poteto/status/2098634643323142286) — what questions do you have about pstack? https://x.ai/bot/plugin/9717366
+- [2026-09-11 · @trq212 · 2098531560643539440](https://x.com/trq212/status/2098531560643539440) — we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals
+- [2026-09-11 · @ClaudeDevs · 2098508880921899197](https://x.com/ClaudeDevs/status/2098508880921899197) — Here's how our team uses Claude Tag for on-call: When an alert fires in Slack, Claude pulls metrics, diffs deploys,
+- [2026-09-11 · @ClaudeDevs · 2098500999656923145](https://x.com/ClaudeDevs/status/2098500999656923145) — New in Claude Code: claude plugin eval See what value your plugin is adding, or if it needs more work.
+- [2026-09-11 · @bot · 2098481256417866145](https://x.com/bot/status/2098481256417866145) — Grok Bot can now search and act across Microsoft Teams for you.
+- [2026-09-11 · @MatthewBerman · 2098441494478889314](https://x.com/MatthewBerman/status/2098441494478889314) — I'm giving away $100k of Grok @bot credits!! The @spacexai team gave me 5,000 codes of $20 each to give
+- [2026-09-11 · @poteto · 2098331943872143430](https://x.com/poteto/status/2098331943872143430) — https://x.ai/bot/_jOdbfkB16zxu7MRcmReE
+- [2026-09-11 · @poteto · 2098331406464356705](https://x.com/poteto/status/2098331406464356705) — pov u installed dr eggbot
+- [2026-09-11 · @bcherny · 2098281805770309686](https://x.com/bcherny/status/2098281805770309686) — The latest Threat Intelligence report is an absolutely terrifying and important read. As models become more intelligent, without the right
+- [2026-09-11 · @bcherny · 2098217573276131577](https://x.com/bcherny/status/2098217573276131577) — Hey ████, I think there is room for both. 1. Prototypes and other throw-away code can be treated as totally
+- [2026-09-11 · @bcherny · 2098217571153838124](https://x.com/bcherny/status/2098217571153838124) — Every day, I get a lot of of emails and messages like this one. I try to respond to as
+- [2026-09-11 · @bcherny · 2098209880310264048](https://x.com/bcherny/status/2098209880310264048) — wait what
+- [2026-09-10 · @Baconbrix · 2098196516121002418](https://x.com/Baconbrix/status/2098196516121002418) — I created a Bot template that you can use to get started building mobile apps remotely with Grok Bot https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA
+- [2026-09-10 · @poteto · 2098186602241822974](https://x.com/poteto/status/2098186602241822974) — pro tip: drag your chats into a Project! https://x.com/poteto/status/2098186080839475568
+- [2026-09-10 · @poteto · 2098186505659564114](https://x.com/poteto/status/2098186505659564114) — https://x.com/poteto/status/2098186080839475568
+- [2026-09-10 · @poteto · 2098186080839475568](https://x.com/poteto/status/2098186080839475568) — clean up your sidebar! one tip I have is that you can think of Projects in cursor like a special
+- [2026-09-10 · @bot · 2098183353665261979](https://x.com/bot/status/2098183353665261979) — Grok Bot is now more powerful for sales teams. Connect your Bots to Salesforce, HubSpot, Gong, Clay, Granola, and other
+- [2026-09-10 · @poteto · 2098180318612300142](https://x.com/poteto/status/2098180318612300142) — cursor now has the most beautiful sidebar of any AI coding tool. i have 0 normal chats, everything is a
+- [2026-09-10 · @poteto · 2098165460714057863](https://x.com/poteto/status/2098165460714057863) — it's here! i've been using Projects for a while and have shipped thousands of PRs with them. pstack works incredibly
+- [2026-09-10 · @bcherny · 2098165206296011059](https://x.com/bcherny/status/2098165206296011059) — Just landed: /diff is now a persistent pane that you can scroll and click. It updates in real-time. For the
+- [2026-09-10 · @cursor_ai · 2098162488013455784](https://x.com/cursor_ai/status/2098162488013455784) — Introducing Projects, a new way of working in Cursor. Rather than creating a chat for every task, you work with
+- [2026-09-10 · @Baconbrix · 2098159665054146848](https://x.com/Baconbrix/status/2098159665054146848) — You can use Grok Bot to develop native apps from anywhere 🚀 1. Install Grok Bot on your Mac. This
+- [2026-09-10 · @mattyp · 2098155792327381294](https://x.com/mattyp/status/2098155792327381294) — Giving Grok Bot a Phone 00:19 Installing Dialbot 00:54 Bland voice setup 02:39 Why use a calling agent? 03:20 Live
+- [2026-09-10 · @leerob · 2098144600594465148](https://x.com/leerob/status/2098144600594465148) — We just rolled out CursorBench 4.0! It includes new tasks for how well models follow instructions, work on challenging projects
+- [2026-09-10 · @AnthropicAI · 2098097512544444447](https://x.com/AnthropicAI/status/2098097512544444447) — We're publishing our most detailed threat intelligence report to date. It covers how people tried to misuse Claude—for cyberattacks, influence
+- [2026-09-10 · @poteto · 2097931908483342364](https://x.com/poteto/status/2097931908483342364) — thoughts?
+- [2026-09-09 · @poteto · 2097767040195194903](https://x.com/poteto/status/2097767040195194903) — https://x.com/poteto/status/2097732320606507506
+- [2026-09-09 · @poteto · 2097761647331062005](https://x.com/poteto/status/2097761647331062005) — We shipped a few new QoL updates to Grok @Bot! Account switching is finally here.
+- [2026-09-09 · @poteto · 2097732320606507506](https://x.com/poteto/status/2097732320606507506) — Part 2 is here! Let's learn the art of supervising someone smarter than you. https://x.com/i/article/2094940651607715840
+- [2026-09-09 · @poteto · 2097580035930751417](https://x.com/poteto/status/2097580035930751417) — everyone spent ten years learning to code and it turns out the terminal skill was english composition. the machine will
+- [2026-09-09 · @poteto · 2097576691053031767](https://x.com/poteto/status/2097576691053031767) — writing is hard
+- [2026-09-09 · @bcherny · 2097557079762624563](https://x.com/bcherny/status/2097557079762624563) — Also note that well aligned models are not sufficient to solve prompt injection by themselves yet. That said, we have
+- [2026-09-08 · @bcherny · 2097470212471922848](https://x.com/bcherny/status/2097470212471922848) — It's the little things
+- [2026-09-08 · @ClaudeDevs · 2097437571634639035](https://x.com/ClaudeDevs/status/2097437571634639035) — Our CI team's on-call first responder is Claude Tag. It reads alerts, metrics, and logs, then writes a SITREP and
+- [2026-09-08 · @spenserskates · 2097431157218623653](https://x.com/spenserskates/status/2097431157218623653) — We've been using Grok Bot @bot for a few weeks now at Amplitude. They've nailed the interaction paradigm by having
+- [2026-09-08 · @mattyp · 2097411358891630786](https://x.com/mattyp/status/2097411358891630786) — What's new in Grok Bot (+ a chance for free credits) 1. iPad and Android 2. @Bot for Enterprise 3.
+- [2026-09-08 · @poteto · 2097398380364497381](https://x.com/poteto/status/2097398380364497381) — it's been very fun building Grok @Bot together with the rest of the team!
+- [2026-09-08 · @bot · 2097383980748382239](https://x.com/bot/status/2097383980748382239) — You can now fill out forms and logins for your Bot without ever leaving the chat, with support for any
+- [2026-09-08 · @robshocks · 2097381547493978562](https://x.com/robshocks/status/2097381547493978562) — 1,000+ PRs a month. What does that Agent workflow look like? A breakdown of PStack, @poteto’s AI skill stack, Principal
+- [2026-09-08 · @poteto · 2097380402000486878](https://x.com/poteto/status/2097380402000486878) — for cursor/grok @bot users, pstack will update automatically
+- [2026-09-08 · @poteto · 2097380152703615396](https://x.com/poteto/status/2097380152703615396) — pstack 0.15.0 is here! this release contains mainly token usage improvements (between 3 to 11% savings depending on how many
+- [2026-09-08 · @bcherny · 2097368503624085773](https://x.com/bcherny/status/2097368503624085773) — To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an
+- [2026-09-08 · @bcherny · 2097363234747818070](https://x.com/bcherny/status/2097363234747818070) — I am pleased to see that OpenAI’s new model is roughly on par with Gemini Flash and Opus 4.8 on
+- [2026-09-07 · @ericzakariasson · 2096917654179402172](https://x.com/ericzakariasson/status/2096917654179402172) — https://x.com/i/article/2096917648839954432
+- [2026-09-07 · @poteto · 2096802412350894302](https://x.com/poteto/status/2096802412350894302) — @bot all these improvements were done by @Grok 4.6 xhigh with help planning by Fable 5.1 🤝
+- [2026-09-07 · @poteto · 2096786161981366338](https://x.com/poteto/status/2096786161981366338) — the Grok @Bot desktop app just got a whole lot faster! there's still more to improve, but we shipped many

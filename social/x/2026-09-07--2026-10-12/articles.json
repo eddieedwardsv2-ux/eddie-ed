@@ -1,0 +1,178 @@
+{
+  "embedded_articles": [
+    {
+      "id": "2103566873501835264",
+      "title": "Coding is dead, long live Coding",
+      "url": "https://x.com/i/article/2103566873501835264",
+      "sharing_post_url": "https://x.com/poteto/status/2103571281014861957",
+      "author": "poteto",
+      "body_words_retrieved": 457,
+      "body_sha256": "b73a3ad20708dce97915b06c6a204c1e13a8548c07d408d64b23ccf21fbf7177",
+      "retention": "metadata and body hash; analytical notes in Test-environment-"
+    },
+    {
+      "id": "2096917648839954432",
+      "title": "Grok Bot Marketplace is live!",
+      "url": "https://x.com/i/article/2096917648839954432",
+      "sharing_post_url": "https://x.com/ericzakariasson/status/2096917654179402172",
+      "author": "ericzakariasson",
+      "body_words_retrieved": 274,
+      "body_sha256": "26530066f4120ca76bba19d0e4a57f86ebc5911b99d048ab2428c41d4c089c78",
+      "retention": "metadata and body hash; analytical notes in Test-environment-"
+    },
+    {
+      "id": "2103535187426709504",
+      "title": "Using Claude Code: Spending your effort ",
+      "url": "https://x.com/i/article/2103535187426709504",
+      "sharing_post_url": "https://x.com/trq212/status/2103576349499855160",
+      "author": "trq212",
+      "body_words_retrieved": 1881,
+      "body_sha256": "7b12cbf21ed54f2fe04f0c6f6383d3e943b9e3a79d747df127cc0b2cec4ce9f3",
+      "retention": "metadata and body hash; analytical notes in Test-environment-"
+    },
+    {
+      "id": "2094940651607715840",
+      "title": "The Complete Guide to pstack Pt. 2",
+      "url": "https://x.com/i/article/2094940651607715840",
+      "sharing_post_url": "https://x.com/poteto/status/2097732320606507506",
+      "author": "poteto",
+      "body_words_retrieved": 3198,
+      "body_sha256": "9b0f973807c2ee0a364ce1d4f9cab1d740d7b394f01e9d47f1bb76c216203667",
+      "retention": "metadata and body hash; analytical notes in Test-environment-"
+    },
+    {
+      "id": "2104419207626825728",
+      "title": "Meet your Team Bots ",
+      "url": "https://x.com/i/article/2104419207626825728",
+      "sharing_post_url": "https://x.com/n2parko/status/2104663299485020568",
+      "author": "n2parko",
+      "body_words_retrieved": 500,
+      "body_sha256": "ebf9ec732896015a44b8f9c8867ce0858fba77ebdc51e74dc488f55b927a5e75",
+      "retention": "metadata and body hash; analytical notes in Test-environment-"
+    }
+  ],
+  "linked_reading": [
+    {
+      "title": "The Complete Guide to pstack Pt. 2",
+      "url": "https://x.com/i/article/2094940651607715840",
+      "author": "Lauren Tan (@poteto)",
+      "relation": "Attached to her 9 September post; article publication date independently distinct",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Coding is dead, long live Coding",
+      "url": "https://x.com/i/article/2103566873501835264",
+      "author": "Lauren Tan (@poteto)",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Meet your Team Bots",
+      "url": "https://x.com/i/article/2104419207626825728",
+      "author": "@n2parko; reposted by poteto",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Grok Bot Marketplace is live!",
+      "url": "https://x.com/i/article/2096917648839954432",
+      "author": "@ericzakariasson; reposted by poteto",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Using Claude Code: Spending your effort",
+      "url": "https://claude.dev/blog/spending-your-effort/",
+      "x_article_url": "https://x.com/i/article/2103535187426709504",
+      "author": "Thariq Shihipar; reposted by Boris",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "author": "Raymond Wang, Sam Attard and Issac G.; shared by Boris",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Automating eval design and hillclimbing with Claude",
+      "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+      "author": "Lance Martin; reposted by Boris",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Introducing Projects",
+      "url": "https://cursor.com/blog/projects",
+      "author": "Alexi Robbins and Fredrika Lindh; shared by poteto",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Projects redesigned: from folder to conversation",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "author": "Anthropic; linked context for Boris's Projects announcement",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Claude Code in the cloud: a field guide to cloud sessions",
+      "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
+      "author": "Anthropic developer blog; reposted by Boris",
+      "status": "body_retrieved_topic_review"
+    },
+    {
+      "title": "Agentic coding is straining CI",
+      "url": "https://claude.com/resources/articles/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "author": "Sachin Malhotra; reposted by Boris",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "author": "Anthropic; shared by Boris and Karpathy",
+      "status": "body_retrieved_overview_review"
+    },
+    {
+      "title": "We Must Pace the Frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "author": "Dario Amodei; reposted by Boris",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Claude Fable 5.1 Solves the Cyphral Distich",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "author": "Geby Jaff; shared by Boris",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "Thoughts on Software Quality",
+      "url": "https://engineering.fb.com/2011/04/18/uncategorized/thoughts-on-software-quality/",
+      "author": "Meta engineering; shared by poteto",
+      "status": "body_reviewed"
+    },
+    {
+      "title": "The Coding Machine at Meta with Michael Novati",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-coding-machine-at-meta",
+      "author": "Gergely Orosz; shared by poteto",
+      "status": "public_text_reviewed_audio_unreviewed"
+    },
+    {
+      "title": "We Built Grok Bot. Here Are Our 14 Best Bots",
+      "url": "https://creatoreconomy.so/p/grok-bot-team-14-best-bots-peng-zheng-lauren-tan",
+      "author": "Peter Yang with Lauren Tan and Peng Zheng; shared by poteto",
+      "status": "public_preview_reviewed_full_article_paywalled"
+    },
+    {
+      "title": "Building iOS Apps with Multiple Claude Accounts, T3 Code, CUA, Spaces, and pstack",
+      "url": "https://www.macstories.net/club/macstories-weekly-issue-532/building-ios-apps-with-multiple-claude-accounts-t3-code-cua-spaces-and-pstack/",
+      "author": "MacStories; reposted by poteto",
+      "status": "body_blocked"
+    },
+    {
+      "title": "One Ring to Rule All Agents",
+      "url": "https://www.macstories.net/club/macstories-weekly-issue-527/one-ring-to-rule-all-agents/",
+      "author": "MacStories; reposted by poteto",
+      "status": "public_page_retrieved_paid_body_unverified"
+    },
+    {
+      "title": "Replaced",
+      "url": "https://ghuntley.com/replaced/",
+      "author": "Geoffrey Huntley; reposted by poteto",
+      "status": "body_reviewed"
+    }
+  ]
+}

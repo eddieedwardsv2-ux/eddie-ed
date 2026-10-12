@@ -37,3 +37,7 @@ See `manifest.json` for the machine-readable inventory and `manifest.md` for the
 Four zero-byte archive files were restored from their source originals on 12 October 2026 (three Nate courses and one Nick video). All 111 raw transcripts now match source blob hashes and byte sizes. No additional raw-transcript video IDs were found across Test-environment's 14 branches or Kit-v1 main. AI Impact currently retains derived notes, not raw scripts.
 
 See [transfer receipt](transfers/2026-10-12.md) for the exact repair and scope.
+
+## X research archive
+
+[poteto, Andrej Karpathy and Boris Cherny: 7 September–12 October 2026](social/x/2026-09-07--2026-10-12/README.md). Source inventory, short excerpts, outbound links and article hashes; exhaustive coverage NOT VERIFIED. Analytical synthesis lives in Test-environment-.

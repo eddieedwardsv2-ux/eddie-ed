@@ -1,0 +1,39 @@
+{
+  "window_start_london": "2026-09-07T00:00:00+01:00",
+  "window_end_london": "2026-10-12T20:51:24+01:00",
+  "timeline_coverage": {
+    "poteto": {
+      "pages": 20,
+      "stop": "crossed_start",
+      "entries": 368,
+      "own": 168,
+      "reposts": 200
+    },
+    "karpathy": {
+      "pages": 2,
+      "stop": "crossed_start",
+      "entries": 4,
+      "own": 3,
+      "reposts": 1
+    },
+    "bcherny": {
+      "pages": 5,
+      "stop": "crossed_start",
+      "entries": 73,
+      "own": 34,
+      "reposts": 39
+    }
+  },
+  "timeline_entries": 445,
+  "unique_records_including_supplements": 448,
+  "method": "FxTwitter paginated timelines; individually retrieved search-discovered replies; publisher web pages",
+  "limits": [
+    "Timeline API is not an official full X export; replies may be omitted. Search-discovered replies supplement it.",
+    "Reposts are filtered by ORIGINAL post creation date; historical posts reshared in window may be missed.",
+    "All timeline entries indexed; substantive selected posts and articles reviewed; not every repost semantically ingested.",
+    "20-word excerpts and source hashes are retained, not complete reproduced post or article bodies.",
+    "Deleted/protected posts and unavailable linked/paywalled bodies remain unverified.",
+    "Images/video URLs indexed; media pixels and speech not reviewed."
+  ],
+  "status": "PARTIAL: available-source ingestion complete; exhaustive all-post/all-article coverage NOT VERIFIED"
+}
