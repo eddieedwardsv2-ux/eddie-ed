@@ -12,7 +12,10 @@
   },
   "integrity": {
     "missing_count": 0,
-    "unexpected_extra_count": 0
+    "unexpected_extra_count": 0,
+    "empty_count": 0,
+    "blob_mismatch_count": 0,
+    "method": "Git blob SHA and byte size comparison against source main; all remote branches scanned for additional raw-transcript video IDs"
   },
   "files": [
     {
@@ -20,777 +23,890 @@
       "video_id": "zjkBMFhNj_g",
       "archive_path": "transcripts/andrej-karpathy/1hr-talk-intro-to-large-language-models--zjkBMFhNj_g-raw.txt",
       "source_path": "research/andrej-karpathy/1hr-talk-intro-to-large-language-models--zjkBMFhNj_g-raw.txt",
-      "source_blob_sha": "004cea0454d35d63e4648ffa069df68ab4fd6939"
+      "source_blob_sha": "004cea0454d35d63e4648ffa069df68ab4fd6939",
+      "size_bytes": 194631
     },
     {
       "creator": "andrej-karpathy",
       "video_id": "96jN2OCOfLs",
       "archive_path": "transcripts/andrej-karpathy/andrej-karpathy-from-vibe-coding-to-agentic-engineering-w--96jN2OCOfLs-raw.txt",
       "source_path": "research/andrej-karpathy/andrej-karpathy-from-vibe-coding-to-agentic-engineering-w--96jN2OCOfLs-raw.txt",
-      "source_blob_sha": "8f6c6e39558bf3a643c01ef6d3ce4c2b0bea2cfb"
+      "source_blob_sha": "8f6c6e39558bf3a643c01ef6d3ce4c2b0bea2cfb",
+      "size_bytes": 101237
     },
     {
       "creator": "andrej-karpathy",
       "video_id": "7xTGNNLPyMI",
       "archive_path": "transcripts/andrej-karpathy/deep-dive-into-llms-like-chatgpt--7xTGNNLPyMI-raw.txt",
       "source_path": "research/andrej-karpathy/deep-dive-into-llms-like-chatgpt--7xTGNNLPyMI-raw.txt",
-      "source_blob_sha": "bf6160a3091799e282bd78c74dfb406aedbf8561"
+      "source_blob_sha": "bf6160a3091799e282bd78c74dfb406aedbf8561",
+      "size_bytes": 649944
     },
     {
       "creator": "andrej-karpathy",
       "video_id": "EWvNQjAaOHw",
       "archive_path": "transcripts/andrej-karpathy/how-i-use-llms--EWvNQjAaOHw-raw.txt",
       "source_path": "research/andrej-karpathy/how-i-use-llms--EWvNQjAaOHw-raw.txt",
-      "source_blob_sha": "fe50dffcfd7efce2528918c35456c43334cc9023"
+      "source_blob_sha": "fe50dffcfd7efce2528918c35456c43334cc9023",
+      "size_bytes": 388397
     },
     {
       "creator": "nate-herk",
       "video_id": "49V-5Ock8LU",
       "archive_path": "transcripts/nate-herk/18-claude-code-token-hacks-in-18-minutes--49V-5Ock8LU-raw.txt",
       "source_path": "research/nate-herk/18-claude-code-token-hacks-in-18-minutes--49V-5Ock8LU-raw.txt",
-      "source_blob_sha": "89ef48b39ea5934a5f53fe7a63362ede096a11dc"
+      "source_blob_sha": "89ef48b39ea5934a5f53fe7a63362ede096a11dc",
+      "size_bytes": 70121
     },
     {
       "creator": "nate-herk",
       "video_id": "jqoFP9QapXI",
       "archive_path": "transcripts/nate-herk/32-tricks-to-level-up-claude-code-in-16-mins--jqoFP9QapXI-raw.txt",
       "source_path": "research/nate-herk/32-tricks-to-level-up-claude-code-in-16-mins--jqoFP9QapXI-raw.txt",
-      "source_blob_sha": "41da6fcaf6ff8060b2226cea6e17d94e7a0bed9d"
+      "source_blob_sha": "41da6fcaf6ff8060b2226cea6e17d94e7a0bed9d",
+      "size_bytes": 67835
     },
     {
       "creator": "nate-herk",
       "video_id": "7WZ6XldxX0U",
       "archive_path": "transcripts/nate-herk/5000-hours-of-building-ai-in-just-17-minutes--7WZ6XldxX0U-raw.txt",
       "source_path": "research/nate-herk/5000-hours-of-building-ai-in-just-17-minutes--7WZ6XldxX0U-raw.txt",
-      "source_blob_sha": "289a5a324c8640d4e85f8019cda5e067689f9278"
+      "source_blob_sha": "289a5a324c8640d4e85f8019cda5e067689f9278",
+      "size_bytes": 67686
     },
     {
       "creator": "nate-herk",
       "video_id": "QhujcQk8pyU",
       "archive_path": "transcripts/nate-herk/6-months-of-building-ai-agents-in-43-minutes-without-the--QhujcQk8pyU-raw.txt",
       "source_path": "research/nate-herk/6-months-of-building-ai-agents-in-43-minutes-without-the--QhujcQk8pyU-raw.txt",
-      "source_blob_sha": "704259cf813fb23e0062e596387485b54be5f78e"
+      "source_blob_sha": "704259cf813fb23e0062e596387485b54be5f78e",
+      "size_bytes": 159581
     },
     {
       "creator": "nate-herk",
       "video_id": "AO5aW01DKHo",
       "archive_path": "transcripts/nate-herk/agentic-workflows-just-changed-ai-automation-forever-claude--AO5aW01DKHo-raw.txt",
       "source_path": "research/nate-herk/agentic-workflows-just-changed-ai-automation-forever-claude--AO5aW01DKHo-raw.txt",
-      "source_blob_sha": "06d0d02350e15d2e57cd8fd5b342cb92014daaf8"
+      "source_blob_sha": "06d0d02350e15d2e57cd8fd5b342cb92014daaf8",
+      "size_bytes": 95784
     },
     {
       "creator": "nate-herk",
       "video_id": "bwrAsnU2P88",
       "archive_path": "transcripts/nate-herk/ai-agent-prompting-masterclass-beginner-to-advanced--bwrAsnU2P88-raw.txt",
       "source_path": "research/nate-herk/ai-agent-prompting-masterclass-beginner-to-advanced--bwrAsnU2P88-raw.txt",
-      "source_blob_sha": "b41abb9e6cd019bd0c789add6633083ae48b0545"
+      "source_blob_sha": "b41abb9e6cd019bd0c789add6633083ae48b0545",
+      "size_bytes": 143560
     },
     {
       "creator": "nate-herk",
       "video_id": "4OOS96i2gfI",
       "archive_path": "transcripts/nate-herk/ai-agents-are-overused-here-s-what-to-build-instead--4OOS96i2gfI-raw.txt",
       "source_path": "research/nate-herk/ai-agents-are-overused-here-s-what-to-build-instead--4OOS96i2gfI-raw.txt",
-      "source_blob_sha": "4fb6292fc0f6b6a8885ceb61db235bc0223ac4f9"
+      "source_blob_sha": "4fb6292fc0f6b6a8885ceb61db235bc0223ac4f9",
+      "size_bytes": 39240
     },
     {
       "creator": "nate-herk",
       "video_id": "sboNwYmH3AY",
       "archive_path": "transcripts/nate-herk/andrej-karpathy-just-10x-d-everyone-s-claude-code--sboNwYmH3AY-raw.txt",
       "source_path": "research/nate-herk/andrej-karpathy-just-10x-d-everyone-s-claude-code--sboNwYmH3AY-raw.txt",
-      "source_blob_sha": "e23945a6d241ab4bd5e521480a70426a796f7655"
+      "source_blob_sha": "e23945a6d241ab4bd5e521480a70426a796f7655",
+      "size_bytes": 69707
     },
     {
       "creator": "nate-herk",
       "video_id": "HIRDzMtuWFk",
       "archive_path": "transcripts/nate-herk/anthropic-engineer-explains-what-to-build-instead-of-ai--HIRDzMtuWFk-raw.txt",
       "source_path": "research/nate-herk/anthropic-engineer-explains-what-to-build-instead-of-ai--HIRDzMtuWFk-raw.txt",
-      "source_blob_sha": "7119aa37dca6a0403ed6852252f220af42748834"
+      "source_blob_sha": "7119aa37dca6a0403ed6852252f220af42748834",
+      "size_bytes": 43541
     },
     {
       "creator": "nate-herk",
       "video_id": "oz2CwrPV2Rg",
       "archive_path": "transcripts/nate-herk/anthropic-engineers-just-10xd-everyones-claude-code--oz2CwrPV2Rg-raw.txt",
       "source_path": "research/nate-herk/anthropic-engineers-just-10xd-everyones-claude-code--oz2CwrPV2Rg-raw.txt",
-      "source_blob_sha": "fa3bcda854dfba4a39a351b0fbeb39fa8ee678a6"
+      "source_blob_sha": "fa3bcda854dfba4a39a351b0fbeb39fa8ee678a6",
+      "size_bytes": 52573
     },
     {
       "creator": "nate-herk",
       "video_id": "QDsenEcAJIk",
       "archive_path": "transcripts/nate-herk/anthropic-s-ceo-how-to-build-a-1-person-business-with-claude--QDsenEcAJIk-raw.txt",
       "source_path": "research/nate-herk/anthropic-s-ceo-how-to-build-a-1-person-business-with-claude--QDsenEcAJIk-raw.txt",
-      "source_blob_sha": "8ec274ba3206f7e1da6b8f52768423b4ab94b57e"
+      "source_blob_sha": "8ec274ba3206f7e1da6b8f52768423b4ab94b57e",
+      "size_bytes": 49761
     },
     {
       "creator": "nate-herk",
       "video_id": "lnm0PMi-4mE",
       "archive_path": "transcripts/nate-herk/beginner-s-guide-to-metadata-make-your-rag-agents-smarter--lnm0PMi-4mE-raw.txt",
       "source_path": "research/nate-herk/beginner-s-guide-to-metadata-make-your-rag-agents-smarter--lnm0PMi-4mE-raw.txt",
-      "source_blob_sha": "85ef51993339c57dc23055479ff2919a73944270"
+      "source_blob_sha": "85ef51993339c57dc23055479ff2919a73944270",
+      "size_bytes": 57882
     },
     {
       "creator": "nate-herk",
       "video_id": "bCljOfCH8Ms",
       "archive_path": "transcripts/nate-herk/build-sell-claude-code-operating-systems-2-hour-course--bCljOfCH8Ms-raw.txt",
       "source_path": "research/nate-herk/build-sell-claude-code-operating-systems-2-hour-course--bCljOfCH8Ms-raw.txt",
-      "source_blob_sha": "2bf811a58cb5406dbf069e2a782ad33da76a7723"
+      "source_blob_sha": "2bf811a58cb5406dbf069e2a782ad33da76a7723",
+      "size_bytes": 580780
     },
     {
       "creator": "nate-herk",
       "video_id": "mpALXah_PBg",
       "archive_path": "transcripts/nate-herk/build-sell-with-claude-code-10-hour-course--mpALXah_PBg-raw.txt",
       "source_path": "research/nate-herk/build-sell-with-claude-code-10-hour-course--mpALXah_PBg-raw.txt",
-      "source_blob_sha": "ca02f404e050c51ee8de3f2b81a69def8c839cae"
+      "source_blob_sha": "ca02f404e050c51ee8de3f2b81a69def8c839cae",
+      "size_bytes": 2404100
     },
     {
       "creator": "nate-herk",
       "video_id": "X-pbJWKmwi0",
       "archive_path": "transcripts/nate-herk/build-sell-with-codex-5-hour-course--X-pbJWKmwi0-raw.txt",
       "source_path": "research/nate-herk/build-sell-with-codex-5-hour-course--X-pbJWKmwi0-raw.txt",
-      "source_blob_sha": "a58264a5f0bc70b5c622ea5767e156562f17629c"
+      "source_blob_sha": "a58264a5f0bc70b5c622ea5767e156562f17629c",
+      "size_bytes": 1196479
     },
     {
       "creator": "nate-herk",
       "video_id": "jZgcWCzxh1I",
       "archive_path": "transcripts/nate-herk/claude-code-dynamic-workflows-clearly-explained--jZgcWCzxh1I-raw.txt",
       "source_path": "research/nate-herk/claude-code-dynamic-workflows-clearly-explained--jZgcWCzxh1I-raw.txt",
-      "source_blob_sha": "b52c25f66b359e4bc0aad21045b13ebdfc4262b5"
+      "source_blob_sha": "b52c25f66b359e4bc0aad21045b13ebdfc4262b5",
+      "size_bytes": 63124
     },
     {
       "creator": "nate-herk",
       "video_id": "jdbOVepEtUE",
       "archive_path": "transcripts/nate-herk/claude-code-for-non-coders-6-hour-course--jdbOVepEtUE-raw.txt",
       "source_path": "research/nate-herk/claude-code-for-non-coders-6-hour-course--jdbOVepEtUE-raw.txt",
-      "source_blob_sha": "7202623fa73abdcac03e1668cd5382d1ac847e17"
+      "source_blob_sha": "7202623fa73abdcac03e1668cd5382d1ac847e17",
+      "size_bytes": 1358309
     },
     {
       "creator": "nate-herk",
       "video_id": "LrgfmZkl3nc",
       "archive_path": "transcripts/nate-herk/claude-code-just-dropped-memory-2-0--LrgfmZkl3nc-raw.txt",
       "source_path": "research/nate-herk/claude-code-just-dropped-memory-2-0--LrgfmZkl3nc-raw.txt",
-      "source_blob_sha": "f51b06501783624f600c43da08f0f4a239faf2ad"
+      "source_blob_sha": "f51b06501783624f600c43da08f0f4a239faf2ad",
+      "size_bytes": 34739
     },
     {
       "creator": "nate-herk",
       "video_id": "9hetShMMp2s",
       "archive_path": "transcripts/nate-herk/claude-code-mods-are-game-changers-set-up-these-5-now--9hetShMMp2s-raw.txt",
       "source_path": "research/nate-herk/claude-code-mods-are-game-changers-set-up-these-5-now--9hetShMMp2s-raw.txt",
-      "source_blob_sha": "020add4c7b3a8c266847de69cff368077a0610f8"
+      "source_blob_sha": "020add4c7b3a8c266847de69cff368077a0610f8",
+      "size_bytes": 48413
     },
     {
       "creator": "nate-herk",
       "video_id": "RAZVk5NPNtE",
       "archive_path": "transcripts/nate-herk/claude-code-skills-just-got-even-better--RAZVk5NPNtE-raw.txt",
       "source_path": "research/nate-herk/claude-code-skills-just-got-even-better--RAZVk5NPNtE-raw.txt",
-      "source_blob_sha": "fe5064a009f7d10fbe5ecb7a80c705a4fcf42878"
+      "source_blob_sha": "fe5064a009f7d10fbe5ecb7a80c705a4fcf42878",
+      "size_bytes": 65087
     },
     {
       "creator": "nate-herk",
       "video_id": "tXtCK66fPj8",
       "archive_path": "transcripts/nate-herk/claude-code-source-code-just-leaked-8-things-you-must-do--tXtCK66fPj8-raw.txt",
       "source_path": "research/nate-herk/claude-code-source-code-just-leaked-8-things-you-must-do--tXtCK66fPj8-raw.txt",
-      "source_blob_sha": "9ac73db05534bc259f6491906b146cdd57bbfdb0"
+      "source_blob_sha": "9ac73db05534bc259f6491906b146cdd57bbfdb0",
+      "size_bytes": 50949
     },
     {
       "creator": "nate-herk",
       "video_id": "DTCyvo6cC54",
       "archive_path": "transcripts/nate-herk/every-level-of-a-claude-second-brain-explained--DTCyvo6cC54-raw.txt",
       "source_path": "research/nate-herk/every-level-of-a-claude-second-brain-explained--DTCyvo6cC54-raw.txt",
-      "source_blob_sha": "64a16df8c4c9a289517e58335211fa6d575dbf19"
+      "source_blob_sha": "64a16df8c4c9a289517e58335211fa6d575dbf19",
+      "size_bytes": 120041
     },
     {
       "creator": "nate-herk",
       "video_id": "ZRb7D6R64hM",
       "archive_path": "transcripts/nate-herk/every-level-of-claude-explained-in-21-minutes--ZRb7D6R64hM-raw.txt",
       "source_path": "research/nate-herk/every-level-of-claude-explained-in-21-minutes--ZRb7D6R64hM-raw.txt",
-      "source_blob_sha": "483113fd2b8fbbeb927ec32f1cddb75aa89aba73"
+      "source_blob_sha": "483113fd2b8fbbeb927ec32f1cddb75aa89aba73",
+      "size_bytes": 94455
     },
     {
       "creator": "nate-herk",
       "video_id": "hQvwMj7IJe4",
       "archive_path": "transcripts/nate-herk/fable-5-karpathy-s-llm-wiki-is-basically-cheating--hQvwMj7IJe4-raw.txt",
       "source_path": "research/nate-herk/fable-5-karpathy-s-llm-wiki-is-basically-cheating--hQvwMj7IJe4-raw.txt",
-      "source_blob_sha": "91137ccf4b14ae9040864472230bdfc1b4cd4501"
+      "source_blob_sha": "91137ccf4b14ae9040864472230bdfc1b4cd4501",
+      "size_bytes": 58666
     },
     {
       "creator": "nate-herk",
       "video_id": "EuzYhzB0vbI",
       "archive_path": "transcripts/nate-herk/finally-agent-loops-clearly-explained--EuzYhzB0vbI-raw.txt",
       "source_path": "research/nate-herk/finally-agent-loops-clearly-explained--EuzYhzB0vbI-raw.txt",
-      "source_blob_sha": "2d720c134782c41406b5edcc64a07fe53fb907b5"
+      "source_blob_sha": "2d720c134782c41406b5edcc64a07fe53fb907b5",
+      "size_bytes": 58893
     },
     {
       "creator": "nate-herk",
       "video_id": "6cEQEba0i2A",
       "archive_path": "transcripts/nate-herk/give-me-10-mins-and-ill-save-you-millions-of-claude-tokens--6cEQEba0i2A-raw.txt",
       "source_path": "research/nate-herk/give-me-10-mins-and-ill-save-you-millions-of-claude-tokens--6cEQEba0i2A-raw.txt",
-      "source_blob_sha": "08e42895aeb97306ae23634876aac6dbcb2e5936"
+      "source_blob_sha": "08e42895aeb97306ae23634876aac6dbcb2e5936",
+      "size_bytes": 41524
     },
     {
       "creator": "nate-herk",
       "video_id": "FBVNS1l5Vb8",
       "archive_path": "transcripts/nate-herk/how-anthropic-actually-prompts-fable-5-1--FBVNS1l5Vb8-raw.txt",
       "source_path": "research/nate-herk/how-anthropic-actually-prompts-fable-5-1--FBVNS1l5Vb8-raw.txt",
-      "source_blob_sha": "0872217d8cc510e60e1ef02bd6ca1a2ec413c2dd"
+      "source_blob_sha": "0872217d8cc510e60e1ef02bd6ca1a2ec413c2dd",
+      "size_bytes": 44784
     },
     {
       "creator": "nate-herk",
       "video_id": "3GAxd90fEE4",
       "archive_path": "transcripts/nate-herk/how-i-d-teach-a-10-year-old-to-build-agentic-workflows--3GAxd90fEE4-raw.txt",
       "source_path": "research/nate-herk/how-i-d-teach-a-10-year-old-to-build-agentic-workflows--3GAxd90fEE4-raw.txt",
-      "source_blob_sha": "627b109be823b028f2b8d9128d8224a8879da5b7"
+      "source_blob_sha": "627b109be823b028f2b8d9128d8224a8879da5b7",
+      "size_bytes": 128049
     },
     {
       "creator": "nate-herk",
       "video_id": "l8ywUsEJ2XQ",
       "archive_path": "transcripts/nate-herk/how-to-actually-build-sell-software-with-ai-as-a-non-techie--l8ywUsEJ2XQ-raw.txt",
       "source_path": "research/nate-herk/how-to-actually-build-sell-software-with-ai-as-a-non-techie--l8ywUsEJ2XQ-raw.txt",
-      "source_blob_sha": "5e4d7e2f3f530a74967607bb686fb40add49a735"
+      "source_blob_sha": "5e4d7e2f3f530a74967607bb686fb40add49a735",
+      "size_bytes": 212926
     },
     {
       "creator": "nate-herk",
       "video_id": "6LNlCpQPYFc",
       "archive_path": "transcripts/nate-herk/how-to-actually-choose-the-right-ai-agent--6LNlCpQPYFc-raw.txt",
       "source_path": "research/nate-herk/how-to-actually-choose-the-right-ai-agent--6LNlCpQPYFc-raw.txt",
-      "source_blob_sha": "9ebb0e0075a790e80399c9369302f89851538574"
+      "source_blob_sha": "9ebb0e0075a790e80399c9369302f89851538574",
+      "size_bytes": 118288
     },
     {
       "creator": "nate-herk",
       "video_id": "ehg4fhydTgs",
       "archive_path": "transcripts/nate-herk/how-to-build-24-7-claude-agents-easy--ehg4fhydTgs-raw.txt",
       "source_path": "research/nate-herk/how-to-build-24-7-claude-agents-easy--ehg4fhydTgs-raw.txt",
-      "source_blob_sha": "2abf62ac39ba06e98ef014c45f36a47a2d5890b0"
+      "source_blob_sha": "2abf62ac39ba06e98ef014c45f36a47a2d5890b0",
+      "size_bytes": 63372
     },
     {
       "creator": "nate-herk",
       "video_id": "vDVSGVpB2vc",
       "archive_path": "transcripts/nate-herk/how-to-build-claude-agent-teams-better-than-99-of-people--vDVSGVpB2vc-raw.txt",
       "source_path": "research/nate-herk/how-to-build-claude-agent-teams-better-than-99-of-people--vDVSGVpB2vc-raw.txt",
-      "source_blob_sha": "b51f3c391f4ad5d89ee52de39c474cead2ae4a97"
+      "source_blob_sha": "b51f3c391f4ad5d89ee52de39c474cead2ae4a97",
+      "size_bytes": 67730
     },
     {
       "creator": "nate-herk",
       "video_id": "e18sdZLwP7o",
       "archive_path": "transcripts/nate-herk/how-to-build-claude-subagents-better-than-99-of-people--e18sdZLwP7o-raw.txt",
       "source_path": "research/nate-herk/how-to-build-claude-subagents-better-than-99-of-people--e18sdZLwP7o-raw.txt",
-      "source_blob_sha": "34ecfc05fa9dbd969f749b0d8638dd593548d5ba"
+      "source_blob_sha": "34ecfc05fa9dbd969f749b0d8638dd593548d5ba",
+      "size_bytes": 106507
     },
     {
       "creator": "nate-herk",
       "video_id": "9KOtMsZ9I28",
       "archive_path": "transcripts/nate-herk/how-to-build-codex-skills-better-than-99-of-people--9KOtMsZ9I28-raw.txt",
       "source_path": "research/nate-herk/how-to-build-codex-skills-better-than-99-of-people--9KOtMsZ9I28-raw.txt",
-      "source_blob_sha": "95cfe51ae28dbde4d0912799c7b038d2edc0dfcf"
+      "source_blob_sha": "95cfe51ae28dbde4d0912799c7b038d2edc0dfcf",
+      "size_bytes": 108364
     },
     {
       "creator": "nate-herk",
       "video_id": "FqnNL8fnUWo",
       "archive_path": "transcripts/nate-herk/how-to-build-gpt-6-astra-automations-that-don-t-eat-your--FqnNL8fnUWo-raw.txt",
       "source_path": "research/nate-herk/how-to-build-gpt-6-astra-automations-that-don-t-eat-your--FqnNL8fnUWo-raw.txt",
-      "source_blob_sha": "234a614460bcea452aa3918c20fb08c5c667dc8d"
+      "source_blob_sha": "234a614460bcea452aa3918c20fb08c5c667dc8d",
+      "size_bytes": 139609
     },
     {
       "creator": "nate-herk",
       "video_id": "xJ5oz63mIec",
       "archive_path": "transcripts/nate-herk/how-to-deploy-your-claude-automations-3-methods--xJ5oz63mIec-raw.txt",
       "source_path": "research/nate-herk/how-to-deploy-your-claude-automations-3-methods--xJ5oz63mIec-raw.txt",
-      "source_blob_sha": "f59c56d0bd66ef44142ea0f1ddba5a0e9b64888f"
+      "source_blob_sha": "f59c56d0bd66ef44142ea0f1ddba5a0e9b64888f",
+      "size_bytes": 85085
     },
     {
       "creator": "nate-herk",
       "video_id": "_qZvORxGqI0",
       "archive_path": "transcripts/nate-herk/how-to-never-hit-your-claude-session-limit-again--_qZvORxGqI0-raw.txt",
       "source_path": "research/nate-herk/how-to-never-hit-your-claude-session-limit-again--_qZvORxGqI0-raw.txt",
-      "source_blob_sha": "482469b8001c3b29abfe9a9554319ff61a833b02"
+      "source_blob_sha": "482469b8001c3b29abfe9a9554319ff61a833b02",
+      "size_bytes": 94555
     },
     {
       "creator": "nate-herk",
       "video_id": "RzLV8sfFdMM",
       "archive_path": "transcripts/nate-herk/how-to-use-claude-code-better-than-98-of-people--RzLV8sfFdMM-raw.txt",
       "source_path": "research/nate-herk/how-to-use-claude-code-better-than-98-of-people--RzLV8sfFdMM-raw.txt",
-      "source_blob_sha": "6d0e76bb66a4dfb7f06399e346af6679f024a4ef"
+      "source_blob_sha": "6d0e76bb66a4dfb7f06399e346af6679f024a4ef",
+      "size_bytes": 246130
     },
     {
       "creator": "nate-herk",
       "video_id": "kB9iMD0EjT8",
       "archive_path": "transcripts/nate-herk/how-to-use-your-claude-code-projects-in-codex-in-5-mins--kB9iMD0EjT8-raw.txt",
       "source_path": "research/nate-herk/how-to-use-your-claude-code-projects-in-codex-in-5-mins--kB9iMD0EjT8-raw.txt",
-      "source_blob_sha": "dff8c1912c41777f66a3edf63024dfe56bade825"
+      "source_blob_sha": "dff8c1912c41777f66a3edf63024dfe56bade825",
+      "size_bytes": 35466
     },
     {
       "creator": "nate-herk",
       "video_id": "iTY8Q449YNQ",
       "archive_path": "transcripts/nate-herk/i-asked-claude-code-to-make-me-as-much-money-as-possible--iTY8Q449YNQ-raw.txt",
       "source_path": "research/nate-herk/i-asked-claude-code-to-make-me-as-much-money-as-possible--iTY8Q449YNQ-raw.txt",
-      "source_blob_sha": "155a85a79f895b7dd70f5b06ba18a5b09d28d1e7"
+      "source_blob_sha": "155a85a79f895b7dd70f5b06ba18a5b09d28d1e7",
+      "size_bytes": 117530
     },
     {
       "creator": "nate-herk",
       "video_id": "wq001sxDTWw",
       "archive_path": "transcripts/nate-herk/i-built-204-ai-automations-here-s-what-actually-matters--wq001sxDTWw-raw.txt",
       "source_path": "research/nate-herk/i-built-204-ai-automations-here-s-what-actually-matters--wq001sxDTWw-raw.txt",
-      "source_blob_sha": "a737182b5f1c33bcd283a1568525a50c10a2fe75"
+      "source_blob_sha": "a737182b5f1c33bcd283a1568525a50c10a2fe75",
+      "size_bytes": 85432
     },
     {
       "creator": "nate-herk",
       "video_id": "bvGptCLDhyo",
       "archive_path": "transcripts/nate-herk/i-built-another-andrej-karpathy-using-claude--bvGptCLDhyo-raw.txt",
       "source_path": "research/nate-herk/i-built-another-andrej-karpathy-using-claude--bvGptCLDhyo-raw.txt",
-      "source_blob_sha": "170dcf2dc8739d04dd969d3c79c9f9af63cc67ec"
+      "source_blob_sha": "170dcf2dc8739d04dd969d3c79c9f9af63cc67ec",
+      "size_bytes": 46552
     },
     {
       "creator": "nate-herk",
       "video_id": "XNQBCRcwXV4",
       "archive_path": "transcripts/nate-herk/i-deleted-all-my-claude-skills-and-claude-got-smarter--XNQBCRcwXV4-raw.txt",
       "source_path": "research/nate-herk/i-deleted-all-my-claude-skills-and-claude-got-smarter--XNQBCRcwXV4-raw.txt",
-      "source_blob_sha": "ea9631cfa66efd24aaf3bb223547e0c5b70e945c"
+      "source_blob_sha": "ea9631cfa66efd24aaf3bb223547e0c5b70e945c",
+      "size_bytes": 47523
     },
     {
       "creator": "nate-herk",
       "video_id": "eg_1NXDcoPk",
       "archive_path": "transcripts/nate-herk/i-gave-gpt-6-astra-10-000-to-trade-stocks-and-this-happened--eg_1NXDcoPk-raw.txt",
       "source_path": "research/nate-herk/i-gave-gpt-6-astra-10-000-to-trade-stocks-and-this-happened--eg_1NXDcoPk-raw.txt",
-      "source_blob_sha": "28bc8627931fdd38954d42948d1c76838bfc9ce5"
+      "source_blob_sha": "28bc8627931fdd38954d42948d1c76838bfc9ce5",
+      "size_bytes": 69465
     },
     {
       "creator": "nate-herk",
       "video_id": "QCkHIyEPIYo",
       "archive_path": "transcripts/nate-herk/i-had-opus-5-5-build-me-the-same-app-at-every-effort-level--QCkHIyEPIYo-raw.txt",
       "source_path": "research/nate-herk/i-had-opus-5-5-build-me-the-same-app-at-every-effort-level--QCkHIyEPIYo-raw.txt",
-      "source_blob_sha": "eed67ea43f002aec3de7a9e09bfd05becb996743"
+      "source_blob_sha": "eed67ea43f002aec3de7a9e09bfd05becb996743",
+      "size_bytes": 102360
     },
     {
       "creator": "nate-herk",
       "video_id": "pY5_Ux_YJjo",
       "archive_path": "transcripts/nate-herk/i-tested-codexs-500-mo-ultrafast-what-you-need-to-know--pY5_Ux_YJjo-raw.txt",
       "source_path": "research/nate-herk/i-tested-codexs-500-mo-ultrafast-what-you-need-to-know--pY5_Ux_YJjo-raw.txt",
-      "source_blob_sha": "43895d5cbdae6bba45e28631ee84a3d1d0fd2adc"
+      "source_blob_sha": "43895d5cbdae6bba45e28631ee84a3d1d0fd2adc",
+      "size_bytes": 34088
     },
     {
       "creator": "nate-herk",
       "video_id": "vfWTyEreOEc",
       "archive_path": "transcripts/nate-herk/i-tested-every-claude-code-feature-these-12-are-the-best--vfWTyEreOEc-raw.txt",
       "source_path": "research/nate-herk/i-tested-every-claude-code-feature-these-12-are-the-best--vfWTyEreOEc-raw.txt",
-      "source_blob_sha": "01f76a4134b655013d65cfdba13e8411d286f831"
+      "source_blob_sha": "01f76a4134b655013d65cfdba13e8411d286f831",
+      "size_bytes": 79808
     },
     {
       "creator": "nate-herk",
       "video_id": "ymgH8jS6Wb8",
       "archive_path": "transcripts/nate-herk/i-tested-jev-on-12-real-use-cases-my-honest-thoughts--ymgH8jS6Wb8-raw.txt",
       "source_path": "research/nate-herk/i-tested-jev-on-12-real-use-cases-my-honest-thoughts--ymgH8jS6Wb8-raw.txt",
-      "source_blob_sha": "9eae4feea4e1bcd8a5fe9cf4f1462d2ee21199f1"
+      "source_blob_sha": "9eae4feea4e1bcd8a5fe9cf4f1462d2ee21199f1",
+      "size_bytes": 66141
     },
     {
       "creator": "nate-herk",
       "video_id": "BvvfZKKz4Yo",
       "archive_path": "transcripts/nate-herk/i-tested-openais-dots-vs-metas-muse-what-you-need-to-know--BvvfZKKz4Yo-raw.txt",
       "source_path": "research/nate-herk/i-tested-openais-dots-vs-metas-muse-what-you-need-to-know--BvvfZKKz4Yo-raw.txt",
-      "source_blob_sha": "251d0260c756c8764ee773b082444e42996d393f"
+      "source_blob_sha": "251d0260c756c8764ee773b082444e42996d393f",
+      "size_bytes": 65730
     },
     {
       "creator": "nate-herk",
       "video_id": "GmLcJVzkxPA",
       "archive_path": "transcripts/nate-herk/i-tested-opus-5-5-vs-gpt-6-astra-on-12-real-use-cases--GmLcJVzkxPA-raw.txt",
       "source_path": "research/nate-herk/i-tested-opus-5-5-vs-gpt-6-astra-on-12-real-use-cases--GmLcJVzkxPA-raw.txt",
-      "source_blob_sha": "11e26987f1f0cd3438331ac8fecb102ec69d5d25"
+      "source_blob_sha": "11e26987f1f0cd3438331ac8fecb102ec69d5d25",
+      "size_bytes": 153546
     },
     {
       "creator": "nate-herk",
       "video_id": "eF3yeJuifoQ",
       "archive_path": "transcripts/nate-herk/i-tested-opus-5-5-vs-gpt-6-sol-on-10-real-use-cases--eF3yeJuifoQ-raw.txt",
       "source_path": "research/nate-herk/i-tested-opus-5-5-vs-gpt-6-sol-on-10-real-use-cases--eF3yeJuifoQ-raw.txt",
-      "source_blob_sha": "1abcba664912b6038918a9489d08c0cbf7d68ef6"
+      "source_blob_sha": "1abcba664912b6038918a9489d08c0cbf7d68ef6",
+      "size_bytes": 121250
     },
     {
       "creator": "nate-herk",
       "video_id": "7eo-11K2e3c",
       "archive_path": "transcripts/nate-herk/i-tested-sonnet-5-5-vs-opus-5-5-what-you-need-to-know--7eo-11K2e3c-raw.txt",
       "source_path": "research/nate-herk/i-tested-sonnet-5-5-vs-opus-5-5-what-you-need-to-know--7eo-11K2e3c-raw.txt",
-      "source_blob_sha": "7183d83fc924e86b249a75f9cd7596cc255f2104"
+      "source_blob_sha": "7183d83fc924e86b249a75f9cd7596cc255f2104",
+      "size_bytes": 91183
     },
     {
       "creator": "nate-herk",
       "video_id": "eRS3CmvrOvA",
       "archive_path": "transcripts/nate-herk/i-tried-100-claude-code-skills-these-6-are-the-best--eRS3CmvrOvA-raw.txt",
       "source_path": "research/nate-herk/i-tried-100-claude-code-skills-these-6-are-the-best--eRS3CmvrOvA-raw.txt",
-      "source_blob_sha": "ef4886d1ac593b0723e80e55fe2d68b76c4297bb"
+      "source_blob_sha": "ef4886d1ac593b0723e80e55fe2d68b76c4297bb",
+      "size_bytes": 58363
     },
     {
       "creator": "nate-herk",
       "video_id": "8QQ_INxAhRs",
       "archive_path": "transcripts/nate-herk/i-turned-claude-into-the-ultimate-second-brain--8QQ_INxAhRs-raw.txt",
       "source_path": "research/nate-herk/i-turned-claude-into-the-ultimate-second-brain--8QQ_INxAhRs-raw.txt",
-      "source_blob_sha": "9c554737471a6c08f677bfe908976c4559b2b526"
+      "source_blob_sha": "9c554737471a6c08f677bfe908976c4559b2b526",
+      "size_bytes": 131673
     },
     {
       "creator": "nate-herk",
       "video_id": "0WDkwMxj13s",
       "archive_path": "transcripts/nate-herk/i-turned-claude-opus-4-8-into-my-entire-ai-operating-system--0WDkwMxj13s-raw.txt",
       "source_path": "research/nate-herk/i-turned-claude-opus-4-8-into-my-entire-ai-operating-system--0WDkwMxj13s-raw.txt",
-      "source_blob_sha": "3e96335e3df8f8644d0bdd940031660fa6334570"
+      "source_blob_sha": "3e96335e3df8f8644d0bdd940031660fa6334570",
+      "size_bytes": 108137
     },
     {
       "creator": "nate-herk",
       "video_id": "yysILVsfLFM",
       "archive_path": "transcripts/nate-herk/i-turned-gpt-6-astra-into-the-ultimate-ai-second-brain--yysILVsfLFM-raw.txt",
       "source_path": "research/nate-herk/i-turned-gpt-6-astra-into-the-ultimate-ai-second-brain--yysILVsfLFM-raw.txt",
-      "source_blob_sha": "932ca058fa92fe41df6af24f4c30151ed2f9bf80"
+      "source_blob_sha": "932ca058fa92fe41df6af24f4c30151ed2f9bf80",
+      "size_bytes": 81194
     },
     {
       "creator": "nate-herk",
       "video_id": "3XIGcM7VICc",
       "archive_path": "transcripts/nate-herk/learn-these-6-ai-skills-now-before-everyone-else-does--3XIGcM7VICc-raw.txt",
       "source_path": "research/nate-herk/learn-these-6-ai-skills-now-before-everyone-else-does--3XIGcM7VICc-raw.txt",
-      "source_blob_sha": "191381e1aa61ff73177106db4dad9980873abbc0"
+      "source_blob_sha": "191381e1aa61ff73177106db4dad9980873abbc0",
+      "size_bytes": 91008
     },
     {
       "creator": "nate-herk",
       "video_id": "saggDHHnmtQ",
       "archive_path": "transcripts/nate-herk/master-95-of-claude-code-in-36-mins-as-a-beginner--saggDHHnmtQ-raw.txt",
       "source_path": "research/nate-herk/master-95-of-claude-code-in-36-mins-as-a-beginner--saggDHHnmtQ-raw.txt",
-      "source_blob_sha": "5706d090983a7308bb4889a4384b71bbced4f92e"
+      "source_blob_sha": "5706d090983a7308bb4889a4384b71bbced4f92e",
+      "size_bytes": 147161
     },
     {
       "creator": "nate-herk",
       "video_id": "zKBPwDpBfhs",
       "archive_path": "transcripts/nate-herk/master-95-of-claude-code-skills-in-28-minutes--zKBPwDpBfhs-raw.txt",
       "source_path": "research/nate-herk/master-95-of-claude-code-skills-in-28-minutes--zKBPwDpBfhs-raw.txt",
-      "source_blob_sha": "508c46f6a875e441b7ffd6be717e207999f2c521"
+      "source_blob_sha": "508c46f6a875e441b7ffd6be717e207999f2c521",
+      "size_bytes": 108233
     },
     {
       "creator": "nate-herk",
       "video_id": "DFlELTiSPk8",
       "archive_path": "transcripts/nate-herk/master-96-of-codex-in-under-35-minutes--DFlELTiSPk8-raw.txt",
       "source_path": "research/nate-herk/master-96-of-codex-in-under-35-minutes--DFlELTiSPk8-raw.txt",
-      "source_blob_sha": "468cfae75a0070a9fdc59d80558b9da986c4f6d8"
+      "source_blob_sha": "468cfae75a0070a9fdc59d80558b9da986c4f6d8",
+      "size_bytes": 136730
     },
     {
       "creator": "nate-herk",
       "video_id": "Ktnwygcnd8U",
       "archive_path": "transcripts/nate-herk/no-seriously-claude-code-is-starting-to-get-dangerous--Ktnwygcnd8U-raw.txt",
       "source_path": "research/nate-herk/no-seriously-claude-code-is-starting-to-get-dangerous--Ktnwygcnd8U-raw.txt",
-      "source_blob_sha": "5aa3470643e72d2296cac158ccf1182ed677e05a"
+      "source_blob_sha": "5aa3470643e72d2296cac158ccf1182ed677e05a",
+      "size_bytes": 56869
     },
     {
       "creator": "nate-herk",
       "video_id": "7jHXoPGnA4c",
       "archive_path": "transcripts/nate-herk/opus-5-5-just-changed-video-editing-forever-free-skills--7jHXoPGnA4c-raw.txt",
       "source_path": "research/nate-herk/opus-5-5-just-changed-video-editing-forever-free-skills--7jHXoPGnA4c-raw.txt",
-      "source_blob_sha": "04a49c73441abd497098ea314d4a055c8ca5bbad"
+      "source_blob_sha": "04a49c73441abd497098ea314d4a055c8ca5bbad",
+      "size_bytes": 73415
     },
     {
       "creator": "nate-herk",
       "video_id": "35WuZxbAY68",
       "archive_path": "transcripts/nate-herk/overwhelmed-by-ai-just-copy-my-tech-stack--35WuZxbAY68-raw.txt",
       "source_path": "research/nate-herk/overwhelmed-by-ai-just-copy-my-tech-stack--35WuZxbAY68-raw.txt",
-      "source_blob_sha": "4c83db6460ad52deb2c0918dcae9506b39e5a4cd"
+      "source_blob_sha": "4c83db6460ad52deb2c0918dcae9506b39e5a4cd",
+      "size_bytes": 70425
     },
     {
       "creator": "nate-herk",
       "video_id": "T4fXb3sbJIo",
       "archive_path": "transcripts/nate-herk/planning-in-claude-code-just-got-a-huge-upgrade--T4fXb3sbJIo-raw.txt",
       "source_path": "research/nate-herk/planning-in-claude-code-just-got-a-huge-upgrade--T4fXb3sbJIo-raw.txt",
-      "source_blob_sha": "3064a0522ea8054f4d899d77b51e71cc5bb6633e"
+      "source_blob_sha": "3064a0522ea8054f4d899d77b51e71cc5bb6633e",
+      "size_bytes": 60287
     },
     {
       "creator": "nate-herk",
       "video_id": "-zL_trhnQaI",
       "archive_path": "transcripts/nate-herk/so-you-learned-claude-now-what---zL_trhnQaI-raw.txt",
       "source_path": "research/nate-herk/so-you-learned-claude-now-what---zL_trhnQaI-raw.txt",
-      "source_blob_sha": "1ed8779ca086dcf71d2975c783bcbd0fb403bdb4"
+      "source_blob_sha": "1ed8779ca086dcf71d2975c783bcbd0fb403bdb4",
+      "size_bytes": 75792
     },
     {
       "creator": "nate-herk",
       "video_id": "Tj3018n5MVg",
       "archive_path": "transcripts/nate-herk/stanfords-method-turns-claude-into-a-phd-level-research-team--Tj3018n5MVg-raw.txt",
       "source_path": "research/nate-herk/stanfords-method-turns-claude-into-a-phd-level-research-team--Tj3018n5MVg-raw.txt",
-      "source_blob_sha": "9171ecb76456f9bdad9b24b789a4394b4b465247"
+      "source_blob_sha": "9171ecb76456f9bdad9b24b789a4394b4b465247",
+      "size_bytes": 48701
     },
     {
       "creator": "nate-herk",
       "video_id": "Ek1NBfnnTH0",
       "archive_path": "transcripts/nate-herk/steal-my-exact-ai-os-setup-5-simple-tips--Ek1NBfnnTH0-raw.txt",
       "source_path": "research/nate-herk/steal-my-exact-ai-os-setup-5-simple-tips--Ek1NBfnnTH0-raw.txt",
-      "source_blob_sha": "d38abf3529108dd36646090844b951e5ac7113fc"
+      "source_blob_sha": "d38abf3529108dd36646090844b951e5ac7113fc",
+      "size_bytes": 96240
     },
     {
       "creator": "nate-herk",
       "video_id": "pkSxISewcw8",
       "archive_path": "transcripts/nate-herk/stop-using-bypass-permissions-use-this-new-feature-instead--pkSxISewcw8-raw.txt",
       "source_path": "research/nate-herk/stop-using-bypass-permissions-use-this-new-feature-instead--pkSxISewcw8-raw.txt",
-      "source_blob_sha": "900e94456e39109d90f348c1d967deb91de69b83"
+      "source_blob_sha": "900e94456e39109d90f348c1d967deb91de69b83",
+      "size_bytes": 15884
     },
     {
       "creator": "nate-herk",
       "video_id": "c0kaKxM2pHg",
       "archive_path": "transcripts/nate-herk/the-skill-that-10x-d-my-claude-code-projects--c0kaKxM2pHg-raw.txt",
       "source_path": "research/nate-herk/the-skill-that-10x-d-my-claude-code-projects--c0kaKxM2pHg-raw.txt",
-      "source_blob_sha": "a987c82562dfd4ba8ac21beb460b91f6872f883c"
+      "source_blob_sha": "a987c82562dfd4ba8ac21beb460b91f6872f883c",
+      "size_bytes": 30048
     },
     {
       "creator": "nate-herk",
       "video_id": "YHk45NEpspE",
       "archive_path": "transcripts/nate-herk/this-is-the-most-powerful-tool-to-give-to-claude-code--YHk45NEpspE-raw.txt",
       "source_path": "research/nate-herk/this-is-the-most-powerful-tool-to-give-to-claude-code--YHk45NEpspE-raw.txt",
-      "source_blob_sha": "f53cb3709bf561159e0497c103c877cb83eee2c8"
+      "source_blob_sha": "f53cb3709bf561159e0497c103c877cb83eee2c8",
+      "size_bytes": 57905
     },
     {
       "creator": "nate-herk",
       "video_id": "oWCcN6hSFjA",
       "archive_path": "transcripts/nate-herk/this-one-gpt-6-astra-skill-replaces-your-higgsfield--oWCcN6hSFjA-raw.txt",
       "source_path": "research/nate-herk/this-one-gpt-6-astra-skill-replaces-your-higgsfield--oWCcN6hSFjA-raw.txt",
-      "source_blob_sha": "014638686cc4447c7585dcac86a0628bc3889f2c"
+      "source_blob_sha": "014638686cc4447c7585dcac86a0628bc3889f2c",
+      "size_bytes": 48322
     },
     {
       "creator": "nate-herk",
       "video_id": "mi4hcipESKQ",
       "archive_path": "transcripts/nate-herk/turn-claude-code-into-your-executive-assistant-in-27-mins--mi4hcipESKQ-raw.txt",
       "source_path": "research/nate-herk/turn-claude-code-into-your-executive-assistant-in-27-mins--mi4hcipESKQ-raw.txt",
-      "source_blob_sha": "4e185005de0fdc48a4af6b08e1d4af92d741f9c2"
+      "source_blob_sha": "4e185005de0fdc48a4af6b08e1d4af92d741f9c2",
+      "size_bytes": 111016
     },
     {
       "creator": "nate-herk",
       "video_id": "brB-hSiV2iU",
       "archive_path": "transcripts/nate-herk/what-karpathy-joining-anthropic-actually-means-for-claude--brB-hSiV2iU-raw.txt",
       "source_path": "research/nate-herk/what-karpathy-joining-anthropic-actually-means-for-claude--brB-hSiV2iU-raw.txt",
-      "source_blob_sha": "768f629fdaf0155a1eeec8a6fb2690701c1ae032"
+      "source_blob_sha": "768f629fdaf0155a1eeec8a6fb2690701c1ae032",
+      "size_bytes": 59821
     },
     {
       "creator": "nick-saraev",
       "video_id": "UPtmKh1vMN8",
       "archive_path": "transcripts/nick-saraev/claude-code-advanced-full-course-3-hours--UPtmKh1vMN8-raw.txt",
       "source_path": "research/nick-saraev/claude-code-advanced-full-course-3-hours--UPtmKh1vMN8-raw.txt",
-      "source_blob_sha": "83ed31f18a005d9b2d36edfa1ee47094b9025e36"
+      "source_blob_sha": "83ed31f18a005d9b2d36edfa1ee47094b9025e36",
+      "size_bytes": 758242
     },
     {
       "creator": "nick-saraev",
       "video_id": "QoQBzR1NIqI",
       "archive_path": "transcripts/nick-saraev/claude-code-full-course-4-hours-build-sell-2026--QoQBzR1NIqI-raw.txt",
       "source_path": "research/nick-saraev/claude-code-full-course-4-hours-build-sell-2026--QoQBzR1NIqI-raw.txt",
-      "source_blob_sha": "48fdb7f3475c269befa5fe77d3e0df23e512d7d7"
+      "source_blob_sha": "48fdb7f3475c269befa5fe77d3e0df23e512d7d7",
+      "size_bytes": 308111
     },
     {
       "creator": "nick-saraev",
       "video_id": "638GQZ9UZ4w",
       "archive_path": "transcripts/nick-saraev/heres-what-id-learn-instead-of-ai-automation-in-2027--638GQZ9UZ4w-raw.txt",
       "source_path": "research/nick-saraev/heres-what-id-learn-instead-of-ai-automation-in-2027--638GQZ9UZ4w-raw.txt",
-      "source_blob_sha": "3617540433e8c7f0db31b2da9c8530907b9f0f6d"
+      "source_blob_sha": "3617540433e8c7f0db31b2da9c8530907b9f0f6d",
+      "size_bytes": 92412
     },
     {
       "creator": "nick-saraev",
       "video_id": "FSXHk4hMrY8",
       "archive_path": "transcripts/nick-saraev/how-i-learn-complex-skills-difficult-subjects-so-fast-with--FSXHk4hMrY8-raw.txt",
       "source_path": "research/nick-saraev/how-i-learn-complex-skills-difficult-subjects-so-fast-with--FSXHk4hMrY8-raw.txt",
-      "source_blob_sha": "f52b0ef6e843715afb390b5e30f2fcd8d9bdb81a"
+      "source_blob_sha": "f52b0ef6e843715afb390b5e30f2fcd8d9bdb81a",
+      "size_bytes": 120039
     },
     {
       "creator": "nick-saraev",
       "video_id": "IJS08TVGut0",
       "archive_path": "transcripts/nick-saraev/i-found-a-way-to-use-ai-agents-like-codex-completely-for--IJS08TVGut0-raw.txt",
       "source_path": "research/nick-saraev/i-found-a-way-to-use-ai-agents-like-codex-completely-for--IJS08TVGut0-raw.txt",
-      "source_blob_sha": "7e0c2d706238b7780acc655efdb56240d213ed4d"
+      "source_blob_sha": "7e0c2d706238b7780acc655efdb56240d213ed4d",
+      "size_bytes": 35892
     },
     {
       "creator": "nick-saraev",
       "video_id": "45K3zHckCnQ",
       "archive_path": "transcripts/nick-saraev/i-spent-31-141-1-000-hours-on-claude-code-to-learn-this--45K3zHckCnQ-raw.txt",
       "source_path": "research/nick-saraev/i-spent-31-141-1-000-hours-on-claude-code-to-learn-this--45K3zHckCnQ-raw.txt",
-      "source_blob_sha": "93a2225d92c93a7b410487d804db8f05b052bfeb"
+      "source_blob_sha": "93a2225d92c93a7b410487d804db8f05b052bfeb",
+      "size_bytes": 101856
     },
     {
       "creator": "nick-saraev",
       "video_id": "QLLuZbuTIRc",
       "archive_path": "transcripts/nick-saraev/the-most-important-video-youll-ever-watch-in-the-age-of-ai--QLLuZbuTIRc-raw.txt",
       "source_path": "research/nick-saraev/the-most-important-video-youll-ever-watch-in-the-age-of-ai--QLLuZbuTIRc-raw.txt",
-      "source_blob_sha": "e967521703647652438586aedc0dc447edf565e2"
+      "source_blob_sha": "e967521703647652438586aedc0dc447edf565e2",
+      "size_bytes": 1058348
     },
     {
       "creator": "nick-saraev",
       "video_id": "DJZISqryDfw",
       "archive_path": "transcripts/nick-saraev/the-only-codex-course-you-need-in-2026-4-5-hours--DJZISqryDfw-raw.txt",
       "source_path": "research/nick-saraev/the-only-codex-course-you-need-in-2026-4-5-hours--DJZISqryDfw-raw.txt",
-      "source_blob_sha": "8684fc1126b605712fb985c52c9f2391957c43e4"
+      "source_blob_sha": "8684fc1126b605712fb985c52c9f2391957c43e4",
+      "size_bytes": 988224
     },
     {
       "creator": "nick-saraev",
       "video_id": "YIl-awY250k",
       "archive_path": "transcripts/nick-saraev/what-id-learn-instead-of-automation-in-2026--YIl-awY250k-raw.txt",
       "source_path": "research/nick-saraev/what-id-learn-instead-of-automation-in-2026--YIl-awY250k-raw.txt",
-      "source_blob_sha": "27b04a44954c3352190b3ce088a17c1b1019a5e9"
+      "source_blob_sha": "27b04a44954c3352190b3ce088a17c1b1019a5e9",
+      "size_bytes": 60244
     },
     {
       "creator": "nick-saraev",
       "video_id": "x55Fj_syFcI",
       "archive_path": "transcripts/nick-saraev/why-you-should-stop-listening-to-ai-news--x55Fj_syFcI-raw.txt",
       "source_path": "research/nick-saraev/why-you-should-stop-listening-to-ai-news--x55Fj_syFcI-raw.txt",
-      "source_blob_sha": "00d88907673b14bf5cd0806b64eb946e96273ead"
+      "source_blob_sha": "00d88907673b14bf5cd0806b64eb946e96273ead",
+      "size_bytes": 40791
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "kMPyFWFqX5I",
       "archive_path": "transcripts/the-next-new-thing/9-shocking-repos-that-make-money--kMPyFWFqX5I-raw.txt",
       "source_path": "research/the-next-new-thing/9-shocking-repos-that-make-money--kMPyFWFqX5I-raw.txt",
-      "source_blob_sha": "782f4ac07415c2d7b7752847525c5507a4f2dd0c"
+      "source_blob_sha": "782f4ac07415c2d7b7752847525c5507a4f2dd0c",
+      "size_bytes": 101495
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "pxaMzr7al3I",
       "archive_path": "transcripts/the-next-new-thing/9-things-you-ll-actually-do-with-jev--pxaMzr7al3I-raw.txt",
       "source_path": "research/the-next-new-thing/9-things-you-ll-actually-do-with-jev--pxaMzr7al3I-raw.txt",
-      "source_blob_sha": "e86eac8b64197e937bb1a0579c437d7d695384cb"
+      "source_blob_sha": "e86eac8b64197e937bb1a0579c437d7d695384cb",
+      "size_bytes": 80459
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "bTbyRKO0hxs",
       "archive_path": "transcripts/the-next-new-thing/agents-and-humans-can-work-together--bTbyRKO0hxs-raw.txt",
       "source_path": "research/the-next-new-thing/agents-and-humans-can-work-together--bTbyRKO0hxs-raw.txt",
-      "source_blob_sha": "970466d0802b891aa8873fa50c74a40e415ed533"
+      "source_blob_sha": "970466d0802b891aa8873fa50c74a40e415ed533",
+      "size_bytes": 69587
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "c5ZkPhzaLdA",
       "archive_path": "transcripts/the-next-new-thing/ai-video-maker-ai-influencer-free-claude-code-and-more-ai--c5ZkPhzaLdA-raw.txt",
       "source_path": "research/the-next-new-thing/ai-video-maker-ai-influencer-free-claude-code-and-more-ai--c5ZkPhzaLdA-raw.txt",
-      "source_blob_sha": "003e793ce49a86ef1204e052f50ddb5ec6f93e58"
+      "source_blob_sha": "003e793ce49a86ef1204e052f50ddb5ec6f93e58",
+      "size_bytes": 68498
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "tsWOiibaaxA",
       "archive_path": "transcripts/the-next-new-thing/better-than-jev-because-you-can-build-with-it--tsWOiibaaxA-raw.txt",
       "source_path": "research/the-next-new-thing/better-than-jev-because-you-can-build-with-it--tsWOiibaaxA-raw.txt",
-      "source_blob_sha": "c0412f0cbc5995b96877e7c1a4e7ebb63c6c8365"
+      "source_blob_sha": "c0412f0cbc5995b96877e7c1a4e7ebb63c6c8365",
+      "size_bytes": 46426
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "WPUAZm5rnGc",
       "archive_path": "transcripts/the-next-new-thing/easy-step-by-step-setup--WPUAZm5rnGc-raw.txt",
       "source_path": "research/the-next-new-thing/easy-step-by-step-setup--WPUAZm5rnGc-raw.txt",
-      "source_blob_sha": "81557211649803c80b676707fab26c79a417bce5"
+      "source_blob_sha": "81557211649803c80b676707fab26c79a417bce5",
+      "size_bytes": 40859
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "ANJTdT0Ggrw",
       "archive_path": "transcripts/the-next-new-thing/free-llm-for-building-agents-images-etc--ANJTdT0Ggrw-raw.txt",
       "source_path": "research/the-next-new-thing/free-llm-for-building-agents-images-etc--ANJTdT0Ggrw-raw.txt",
-      "source_blob_sha": "3a6a32fae74fee5f9585ee991067ab3d985c64c4"
+      "source_blob_sha": "3a6a32fae74fee5f9585ee991067ab3d985c64c4",
+      "size_bytes": 26924
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "CQhWqUOouYM",
       "archive_path": "transcripts/the-next-new-thing/free-on-github-manage-agents-11labs-alternative-incredible--CQhWqUOouYM-raw.txt",
       "source_path": "research/the-next-new-thing/free-on-github-manage-agents-11labs-alternative-incredible--CQhWqUOouYM-raw.txt",
-      "source_blob_sha": "c74edfe05cfe739d6c375fa9f04377ff634f6d8e"
+      "source_blob_sha": "c74edfe05cfe739d6c375fa9f04377ff634f6d8e",
+      "size_bytes": 82316
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "o7Rm5FvA7hU",
       "archive_path": "transcripts/the-next-new-thing/grok-bot-make-money-grow-businesses-save-cash--o7Rm5FvA7hU-raw.txt",
       "source_path": "research/the-next-new-thing/grok-bot-make-money-grow-businesses-save-cash--o7Rm5FvA7hU-raw.txt",
-      "source_blob_sha": "f4fa1b1b40b27afc5f2351dec9c8ef73ad7231d9"
+      "source_blob_sha": "f4fa1b1b40b27afc5f2351dec9c8ef73ad7231d9",
+      "size_bytes": 137501
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "ty49TiLlKPM",
       "archive_path": "transcripts/the-next-new-thing/i-built-an-ai-employee-with-claude-obsidian--ty49TiLlKPM-raw.txt",
       "source_path": "research/the-next-new-thing/i-built-an-ai-employee-with-claude-obsidian--ty49TiLlKPM-raw.txt",
-      "source_blob_sha": "59ef898f9473b2ec6e8ebea0fab1151f0009e26f"
+      "source_blob_sha": "59ef898f9473b2ec6e8ebea0fab1151f0009e26f",
+      "size_bytes": 34762
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "dfFKE7EetoA",
       "archive_path": "transcripts/the-next-new-thing/make-money-cut-costs-run-your-life-with-metas-muse--dfFKE7EetoA-raw.txt",
       "source_path": "research/the-next-new-thing/make-money-cut-costs-run-your-life-with-metas-muse--dfFKE7EetoA-raw.txt",
-      "source_blob_sha": "0a6786533b4c111f26eeb918ff5cf8f0373009a8"
+      "source_blob_sha": "0a6786533b4c111f26eeb918ff5cf8f0373009a8",
+      "size_bytes": 88025
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "LMpMmOWTtVk",
       "archive_path": "transcripts/the-next-new-thing/matt-pocock-built-the-skills-repo-every-ai-coder-is-using--LMpMmOWTtVk-raw.txt",
       "source_path": "research/the-next-new-thing/matt-pocock-built-the-skills-repo-every-ai-coder-is-using--LMpMmOWTtVk-raw.txt",
-      "source_blob_sha": "7f3088689c4390451052b900f1b0f222c822effa"
+      "source_blob_sha": "7f3088689c4390451052b900f1b0f222c822effa",
+      "size_bytes": 100176
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "ZodAaTH-6_E",
       "archive_path": "transcripts/the-next-new-thing/meta-s-muse-makes-you-money-and-more--ZodAaTH-6_E-raw.txt",
       "source_path": "research/the-next-new-thing/meta-s-muse-makes-you-money-and-more--ZodAaTH-6_E-raw.txt",
-      "source_blob_sha": "b48cc1d4bcca6547b9122182ca53767ca241d06a"
+      "source_blob_sha": "b48cc1d4bcca6547b9122182ca53767ca241d06a",
+      "size_bytes": 51543
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "uWnQLASl95U",
       "archive_path": "transcripts/the-next-new-thing/new-agent-can-do-your-marketing-close-sales--uWnQLASl95U-raw.txt",
       "source_path": "research/the-next-new-thing/new-agent-can-do-your-marketing-close-sales--uWnQLASl95U-raw.txt",
-      "source_blob_sha": "abe6951fe7d4f0b91002f6eec7a2b6f56d9b0e2f"
+      "source_blob_sha": "abe6951fe7d4f0b91002f6eec7a2b6f56d9b0e2f",
+      "size_bytes": 65797
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "6xi2KL_NujU",
       "archive_path": "transcripts/the-next-new-thing/new-ai-mobile-app-builder-ai-slides-ai-receptionist-and-more--6xi2KL_NujU-raw.txt",
       "source_path": "research/the-next-new-thing/new-ai-mobile-app-builder-ai-slides-ai-receptionist-and-more--6xi2KL_NujU-raw.txt",
-      "source_blob_sha": "ef05b8a575232762e60fbd70dcfe4628124127fe"
+      "source_blob_sha": "ef05b8a575232762e60fbd70dcfe4628124127fe",
+      "size_bytes": 77587
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "U6ptUFMyaJg",
       "archive_path": "transcripts/the-next-new-thing/new-release-fewer-tokens-reliable-ai--U6ptUFMyaJg-raw.txt",
       "source_path": "research/the-next-new-thing/new-release-fewer-tokens-reliable-ai--U6ptUFMyaJg-raw.txt",
-      "source_blob_sha": "3d208ed98a32484554fd95c7faeea7ed5ed40877"
+      "source_blob_sha": "3d208ed98a32484554fd95c7faeea7ed5ed40877",
+      "size_bytes": 59596
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "GZtLsvklYBI",
       "archive_path": "transcripts/the-next-new-thing/replace-suno-ai-chatgpt-perplexity-lovable-manus-opus-clip--GZtLsvklYBI-raw.txt",
       "source_path": "research/the-next-new-thing/replace-suno-ai-chatgpt-perplexity-lovable-manus-opus-clip--GZtLsvklYBI-raw.txt",
-      "source_blob_sha": "81fe6b60a113cd722b435790807c2da4f796bbbc"
+      "source_blob_sha": "81fe6b60a113cd722b435790807c2da4f796bbbc",
+      "size_bytes": 113286
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "Wsru44p-J14",
       "archive_path": "transcripts/the-next-new-thing/this-week-s-repos-ps5-game-on-a-pc-turn-agents-into--Wsru44p-J14-raw.txt",
       "source_path": "research/the-next-new-thing/this-week-s-repos-ps5-game-on-a-pc-turn-agents-into--Wsru44p-J14-raw.txt",
-      "source_blob_sha": "1e222e4326acc65e4ee4acba86237b78dc2e42ff"
+      "source_blob_sha": "1e222e4326acc65e4ee4acba86237b78dc2e42ff",
+      "size_bytes": 27158
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "BcNAQynKUk4",
       "archive_path": "transcripts/the-next-new-thing/top-repo-explained-builds-product-lands-customers--BcNAQynKUk4-raw.txt",
       "source_path": "research/the-next-new-thing/top-repo-explained-builds-product-lands-customers--BcNAQynKUk4-raw.txt",
-      "source_blob_sha": "08750406d74c3854ff0f1f9fc8d170963a450c6e"
+      "source_blob_sha": "08750406d74c3854ff0f1f9fc8d170963a450c6e",
+      "size_bytes": 68215
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "1fHsIveXRa8",
       "archive_path": "transcripts/the-next-new-thing/top-repos-explained-code-review-world-camera-better-ai--1fHsIveXRa8-raw.txt",
       "source_path": "research/the-next-new-thing/top-repos-explained-code-review-world-camera-better-ai--1fHsIveXRa8-raw.txt",
-      "source_blob_sha": "bc3ce1f1a17a2e45a7f627a3fd97497c17a556f3"
+      "source_blob_sha": "bc3ce1f1a17a2e45a7f627a3fd97497c17a556f3",
+      "size_bytes": 87684
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "hlOk-EFUITQ",
       "archive_path": "transcripts/the-next-new-thing/top-repos-fame-traffic-agents--hlOk-EFUITQ-raw.txt",
       "source_path": "research/the-next-new-thing/top-repos-fame-traffic-agents--hlOk-EFUITQ-raw.txt",
-      "source_blob_sha": "26f501374adf356de2552a120f7e616fd860648b"
+      "source_blob_sha": "26f501374adf356de2552a120f7e616fd860648b",
+      "size_bytes": 114634
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "6IxiArssGvg",
       "archive_path": "transcripts/the-next-new-thing/we-tested-the-same-request-on-all-3--6IxiArssGvg-raw.txt",
       "source_path": "research/the-next-new-thing/we-tested-the-same-request-on-all-3--6IxiArssGvg-raw.txt",
-      "source_blob_sha": "cd645519f7803b0bcf815d30f1f426398df7e4be"
+      "source_blob_sha": "cd645519f7803b0bcf815d30f1f426398df7e4be",
+      "size_bytes": 57091
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "pkwnJcETgfE",
       "archive_path": "transcripts/the-next-new-thing/why-everyone-is-talking-about-meta-s-new-muse-agent--pkwnJcETgfE-raw.txt",
       "source_path": "research/the-next-new-thing/why-everyone-is-talking-about-meta-s-new-muse-agent--pkwnJcETgfE-raw.txt",
-      "source_blob_sha": "f347cd4fbb88ebf2d0de7f4b97a38ebd2555c309"
+      "source_blob_sha": "f347cd4fbb88ebf2d0de7f4b97a38ebd2555c309",
+      "size_bytes": 58453
     },
     {
       "creator": "the-next-new-thing",
       "video_id": "ehab5PtgRo8",
       "archive_path": "transcripts/the-next-new-thing/why-is-everyone-using-these--ehab5PtgRo8-raw.txt",
       "source_path": "research/the-next-new-thing/why-is-everyone-using-these--ehab5PtgRo8-raw.txt",
-      "source_blob_sha": "aaf4ffb29195884467ba663eb611763a5eccef69"
+      "source_blob_sha": "aaf4ffb29195884467ba663eb611763a5eccef69",
+      "size_bytes": 40703
     }
-  ]
+  ],
+  "source_commit": "29711ad26afc6035f8bf77e5db9b4562964ff7be",
+  "last_integrity_check": "2026-10-12"
 }

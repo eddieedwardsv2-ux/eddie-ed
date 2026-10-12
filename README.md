@@ -24,8 +24,16 @@ Raw transcripts archived: **111**
 - nick-saraev: 10
 - the-next-new-thing: 24
 
-Integrity check at archive creation: **PASS**  
+Integrity check on 12 October 2026: **PASS**  
 Missing: 0  
-Unexpected extras: 0
+Unexpected extras: 0  
+Empty files: 0  
+Blob mismatches: 0
 
 See `manifest.json` for the machine-readable inventory and `manifest.md` for the human-readable list.
+
+## Latest transfer check
+
+Four zero-byte archive files were restored from their source originals on 12 October 2026 (three Nate courses and one Nick video). All 111 raw transcripts now match source blob hashes and byte sizes. No additional raw-transcript video IDs were found across Test-environment's 14 branches or Kit-v1 main. AI Impact currently retains derived notes, not raw scripts.
+
+See [transfer receipt](transfers/2026-10-12.md) for the exact repair and scope.
