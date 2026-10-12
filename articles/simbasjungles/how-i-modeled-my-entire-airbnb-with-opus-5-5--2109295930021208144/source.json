@@ -1,0 +1,222 @@
+{
+  "title": "How I modeled my entire Airbnb with Opus 5.5",
+  "author": "SimbasJungles",
+  "post_url": "https://x.com/SimbasJungles/status/2109295930021208144",
+  "article_url": "https://x.com/i/article/2109286119401492480",
+  "published_at": "2026-10-11T14:51:53.000Z",
+  "retrieval": "FxTwitter public API; images visually inspected",
+  "media": [
+    {
+      "inventory_index": 0,
+      "media_id": "2109289634618302464",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUWzv0fWYAAPZsK.jpg",
+      "width": 2560,
+      "height": 1024,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "Cover: apartment scene combining wireframe geometry and finished lighting.",
+      "repository_path": "images/00.jpg"
+    },
+    {
+      "inventory_index": 1,
+      "media_id": "2109290533424128000",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW0kIzW4AALRAj.jpg",
+      "width": 1600,
+      "height": 1539,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "Inputs: architectural plan, empty-room photograph, generated design reference and shopping-cart captures. The purchase constraint is available furniture.",
+      "repository_path": "images/01.jpg"
+    },
+    {
+      "inventory_index": 2,
+      "media_id": "2109291863517655040",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW1xjyXcAAxxSo.jpg",
+      "width": 1200,
+      "height": 835,
+      "video_info": null,
+      "archive_status": "source_link_and_text_summary_only",
+      "summary": "Prompt screenshot: asks for a realistic, well-lit apartment modeled in Blender and made walkable in Unreal using the supplied references. A credential is visibly redacted."
+    },
+    {
+      "inventory_index": 3,
+      "media_id": "2109286698362327040",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUWxE6FX0AAdWfr.jpg",
+      "width": 1600,
+      "height": 2016,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "Early and later room views from the same viewpoint illustrate refinement through five feedback rounds.",
+      "repository_path": "images/03.jpg"
+    },
+    {
+      "inventory_index": 4,
+      "media_id": "2109293090267631616",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW249yWkAAib6k.jpg",
+      "width": 1600,
+      "height": 1054,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "A contact sheet presents the author's claimed 849 visual checks across roughly two days; the count is a caption claim, not independently counted.",
+      "repository_path": "images/04.jpg"
+    },
+    {
+      "inventory_index": 5,
+      "media_id": "2109292217755938816",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW2GLbWsAAsDyt.jpg",
+      "width": 1600,
+      "height": 1654,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "Six bedroom versions show progressively revised furnishings, textures and illumination.",
+      "repository_path": "images/05.jpg"
+    },
+    {
+      "inventory_index": 6,
+      "media_id": "2109293222631526400",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW3Aq4XUAA1QBZ.jpg",
+      "width": 1600,
+      "height": 1146,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "Two matching living-room views compare morning illumination with lamps at night.",
+      "repository_path": "images/06.jpg"
+    },
+    {
+      "inventory_index": 7,
+      "media_id": "2109292842661081088",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW2qjYWcAAffhP.jpg",
+      "width": 1600,
+      "height": 1645,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "Demonstrates four lighting states, a Portuguese settings menu and a separate furniture-layout editor. The caption identifies F5 as the reload action.",
+      "repository_path": "images/07.jpg"
+    },
+    {
+      "inventory_index": 8,
+      "media_id": "2109292716672634880",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW2jOCXUAApDM8.jpg",
+      "width": 1200,
+      "height": 1280,
+      "video_info": null,
+      "archive_status": "source_link_and_text_summary_only",
+      "summary": "Performance screenshot: request targets 60 FPS while retaining visual quality. Response describes time-dependent glass reflections, fewer shadow rays and adaptive resolution. Reported rates change from 27–43 to 64–65 FPS at 5120×1440 on an RTX 4090."
+    },
+    {
+      "inventory_index": 9,
+      "media_id": "2109292079717265408",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW1-JMXsAA6EX_.jpg",
+      "width": 1200,
+      "height": 1409,
+      "video_info": null,
+      "archive_status": "source_link_and_text_summary_only",
+      "summary": "Feedback screenshot: requests fixes for intersecting cushions, an unrealistic rug edge, artificial-looking pillows and flat surfaces; later asks for detailed foliage, illuminated dust and stronger cinematic lighting."
+    },
+    {
+      "inventory_index": 10,
+      "media_id": "2109292343173980160",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW2NepWIAApv3e.jpg",
+      "width": 1600,
+      "height": 1126,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "Effects examples show sunbeams with particles, plant shadows, camera-turn blur and depth-of-field/vignette.",
+      "repository_path": "images/10.jpg"
+    },
+    {
+      "inventory_index": 11,
+      "media_id": "2109292965373874176",
+      "type": "ApiImage",
+      "url": "https://pbs.twimg.com/media/HUW2xshXEAAGtVV.jpg",
+      "width": 1600,
+      "height": 1126,
+      "video_info": null,
+      "archive_status": "original_image_saved",
+      "summary": "Paired Blender previews and Unreal scenes illustrate the contribution of lighting and shadows.",
+      "repository_path": "images/11.jpg"
+    },
+    {
+      "inventory_index": 12,
+      "media_id": "2109292483079262208",
+      "type": "ApiVideo",
+      "url": null,
+      "width": null,
+      "height": null,
+      "video_info": {
+        "__typename": "ApiVideo",
+        "aspect_ratio": {
+          "denominator": 5,
+          "numerator": 8
+        },
+        "duration_millis": 7800,
+        "preview_image": {
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.47,
+                "rgb": {
+                  "blue": 2,
+                  "green": 5,
+                  "red": 6
+                }
+              },
+              {
+                "percentage": 0.49,
+                "rgb": {
+                  "blue": 44,
+                  "green": 71,
+                  "red": 92
+                }
+              }
+            ]
+          },
+          "original_img_height": 1200,
+          "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2109292483079262208/img/6e9Rr0cS73QONWhI.jpg",
+          "original_img_width": 1920
+        },
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109292483079262208/vid/avc1/576x360/Zx33q_bp3tZBzXd6.mp4?tag=29"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109292483079262208/vid/avc1/432x270/IWXj05X4DWsPkisH.mp4?tag=29"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109292483079262208/pl/-Vv7NI5pM224enmJ.m3u8?tag=29"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109292483079262208/vid/avc1/1920x1200/6G69W9SaU82KtfhC.mp4?tag=29"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109292483079262208/vid/avc1/1152x720/wlAV17cMmhY_GLJV.mp4?tag=29"
+          }
+        ]
+      },
+      "archive_status": "video_source_metadata_only"
+    }
+  ],
+  "capture_date": "2026-10-12",
+  "status": "partial_ingestion",
+  "article_storage": "paraphrased_summary"
+}
